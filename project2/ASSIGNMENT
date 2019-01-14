@@ -1,0 +1,75 @@
+
+In this directory you will find a set of C++ program files.
+The only file you will need to modify is "main.cc".  This file
+contains  two calls to two routines:  1) AllToAll() that performs an 
+all-to-all communication primitives using integers, and 
+2) AllToAllPersonalized() that performs the all-to-all-personalized
+communication primitive using integers.  Currently these functions
+call the equivalent MPI function.  Your task:  Replace these MPI
+collective operations with an algorithm that uses point-to-point MPI
+calls (i.e. MPI_Send, MPI_Recv, or MPI_SendRecv).  If you choose to do
+so, you may also use the non-blocking versions of these calls.
+
+The code in main repeatedly runs the communication primitive, does a
+simple check to make sure the communication happened as specified, and
+measures the average time to do a communication operation.  (We
+measure a repeated call to the operation to ensure that we get
+accurate time measurements.)
+
+You may implement any of the algorithms described in the text and
+compare the MPI operation performance to your own algorithms.  Measure
+the performance on 2, 4, 8, 16, and 32 processors.
+
+Graduate students:
+
+Graduate students will extend this in two ways.  First you must adapt
+the hypercube all-to-all broadcast algorithm to run on non-power-of-2
+processors (e.g. 5,6,7,13).  You will do this by creating a network of
+virtual processors on the smallest hypercube that can contain all of
+the physical processors (at most you will have to add p-2 virtual
+processors to accomplish this).  You will then map these virtual
+processors onto physical processors such that a maximum of 2 virtual
+processors are mapped to any physical processor.  Implement the
+hypercube all-to-all broadcast algorithm on these virtual
+processors. (Note, you will have to use tags to discriminate messages
+between the two virtual processors that may reside on the same node.).
+In this way, you will be able to implement the all-to-all broadcast
+using any number of processors.  Note, a careful mapping of virtual
+processors to physical processors will make the coding very simple and
+allow you to use code that is very similar to the standard hypercube
+algorithm.
+
+
+For the all-to-all personalized algorithm, implement both the
+hypercube algorithm that is an extension of the mesh based algorithm
+and the optimal hypercube algorithm using e-cube routing and compare
+the performance.  You do not need to support non-power of two cases
+for these algorithms.
+
+
+What to turn in:
+
+
+* Project Report: This is a research project, not just a programming
+   assignment. I expect to receive, in addition to any program source
+   developed, a comprehensive report that documents:
+     o Background Material Researched in Support of the Project
+     o Techniques and Methods used in the Report
+     o Results presented in sufficient detail that the results are 
+        reproduce-able from the description
+     o Analysis: What are the lessons learned. What general principles can
+        be observed from the results.
+        (Derive timing formulas, compare your results to these formulas!)
+* ALL NON-ORIGINAL work must be cited!
+     o No mercy will be given to students that submit plagiarized
+         material. Any student that submits the work of others represented as
+         their own will face disciplinary sanctions!
+
+     o  Turn in printed hardcopy of the report in class on due date.
+        (Don't email report)
+
+* Program source code
+  Email me the program source code to luke@cse.msstate.edu
+  o  Do not send binaries
+  o  Include comments in your code so I can follow what you are doing
+

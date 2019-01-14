@@ -1,0 +1,21 @@
+Starting 2 processors.
+Ite:0 id:1 partner:0 p_send_buf:0 mask:1
+Ite:0 id:1 partner:0 p_send_buf:0 mask:1
+Ite:0 id:1 partner:0 p_send_buf:0 mask:1
+Ite:0 id:1 partner:0 p_send_buf:0 mask:1
+Ite:0 id:1 partner:0 p_send_buf:0 mask:1
+all to all broadcast for m=1 required 3.71933e-05 seconds.
+all to all broadcast for m=16 required 5.60284e-05 seconds.
+all to all broadcast for m=256 required 1.00136e-05 seconds.
+all to all broadcast for m=4096 required 0.000127077 seconds.
+all to all broadcast for m=65536 required 0.00128889 seconds.
+Ite:0 id:0 partner:1 p_send_buf:1 mask:1
+all-to-all-personalized broadcast, m=1 required 0.000166893 seconds.
+Ite:0 id:0 partner:1 p_send_buf:16 mask:1
+all-to-all-personalized broadcast, m=16 required 1.09673e-05 seconds.
+Ite:0 id:0 partner:1 p_send_buf:256 mask:1
+all-to-all-personalized broadcast, m=256 required 1.50204e-05 seconds.
+Ite:0 id:0 partner:1 p_send_buf:4096 mask:1
+all-to-all-personalized broadcast, m=4096 required 9.70364e-05 seconds.
+Ite:0 id:0 partner:1 p_send_buf:65536 mask:1
+all-to-all-personalized broadcast, m=65536 required 0.00203204 seconds.

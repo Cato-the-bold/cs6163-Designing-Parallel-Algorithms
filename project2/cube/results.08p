@@ -1,0 +1,11 @@
+Starting 8 processors.
+all to all broadcast for m=1 required 0.00031099 seconds.
+all to all broadcast for m=16 required 0.000317066 seconds.
+all to all broadcast for m=256 required 0.000491554 seconds.
+all to all broadcast for m=4096 required 0.00286997 seconds.
+all to all broadcast for m=65536 required 0.038049 seconds.
+all-to-all-personalized broadcast, m=1 required 7.9577e-05 seconds.
+all-to-all-personalized broadcast, m=16 required 8.6885e-05 seconds.
+all-to-all-personalized broadcast, m=256 required 0.000302935 seconds.
+all-to-all-personalized broadcast, m=4096 required 0.00399426 seconds.
+all-to-all-personalized broadcast, m=65536 required 0.0497832 seconds.
