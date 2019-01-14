@@ -1,0 +1,37 @@
+Found 115 solutions.
+execution time = 71.8664 seconds.
+Found 115 solutions.
+execution time = 69.5898 seconds.
+Found 115 solutions.
+execution time = 60.3459 seconds.
+Found 115 solutions.
+execution time = 56.3631 seconds.
+Found 115 solutions.
+execution time = 52.5393 seconds.
+Found 115 solutions.
+execution time = 49.9947 seconds.
+Found 115 solutions.
+execution time = 47.547 seconds.
+Found 115 solutions.
+execution time = 48.8615 seconds.
+Found 115 solutions.
+execution time = 71.7844 seconds.
+Found 115 solutions.
+execution time = 69.5042 seconds.
+Found 115 solutions.
+execution time = 60.2593 seconds.
+Found 115 solutions.
+execution time = 56.1995 seconds.
+Found 115 solutions.
+execution time = 52.4753 seconds.
+Found 115 solutions.
+execution time = 50.1113 seconds.
+Found 115 solutions.
+execution time = 47.6604 seconds.
+mpirun: killing job...
+
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 8587 on node Raptor-08-23.HPC.MsState.Edu exited on signal 0 (Unknown signal 0).
+--------------------------------------------------------------------------
+mpirun: clean termination accomplished
+

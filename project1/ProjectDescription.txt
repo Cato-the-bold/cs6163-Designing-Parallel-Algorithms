@@ -1,0 +1,116 @@
+Project 1:
+**** Search for Intelligent Puzzles ****
+
+This project is designed to explore the bag-of-tasks model of parallel
+programming.  One commonly known example of this model is the SETI at
+Home program where a SETI server send data samples to client machines
+all over the world.  The client processors perform data processing
+operations on the data in order to determine if the signals have high
+information content that may be indicative of intelligent life on
+another planet.  Since the amount of data involved in the transactions
+is relatively small compared to the computational requirements, it is
+possible to obtain extremely high performance using diverse and
+distributed systems.  Since the order of task execution is not
+important for correct operation (this is the bag part of
+bag-of-tasks), it is possible to get good processor utilization even
+if workloads vary significantly.  Since new tasks are assigned to
+processors as they finish their currently assigned tasks, a
+slow processor is naturally assigned fewer tasks to compensate.
+
+In this problem, we will solve a related bag-of-tasks problem.  In
+this problem we are searching for intelligent puzzles. These puzzles
+are in the general class of peg hopping games that are played on a 5x5
+game board.  In each position on the 5x5 grid may hold a peg, a hole
+that a peg can fit in, or an unused space (no hole or peg).  The game
+is played by applying the following rule:
+
+if a hole is position next to two pegs, then the peg on the opposite side can
+jump over the middle peg to the hole.  The middle peg is removed.  For example,
+if 0 is a hole and X is a peg, then this is illustrated as
+
+0XX -> X00
+
+This rule can be applied in either a horizontal or vertical direction.
+A game is solved by multiple applications of the rule.  A puzzle has a
+solution if there are a sequence of moves such that all but one peg is
+removed. A puzzle is determined to be intelligent if a solution exists
+using the given rules.  For example, below shows a proof of
+intelligence for a puzzle.  The puzzle is the configuration on the
+leftmost side.
+
+      
+  X    0    0    0    0    X    X    0    0
+XXX  XX0  00X  X0X  XXX  XX0  00X  000  00X
+XX0->XXX->XXX->0XX->00X->000->000->00X->000
+XXX  XXX  XXX  0XX  00X  00X  00X  00X  000
+
+
+However, not all game configurations have a solution.  We will be
+given a selection of game configurations and it is our task to find
+out how many of them and which ones have solutions.  We input a game
+configuration using a string of 25 characters.  In each character we
+have a "0" for a hole, a "1" for a peg, and a "2" for neither.  Once
+we have input the configurations from a file, we will send these
+configurations to a number of clients for computations to determine if
+the puzzle is intelligent or not.  If the puzzle is not intelligent,
+it will need to send a response to the server indicating that no
+solution is found.  If it is intelligent, it will need to send a
+response to the server that includes the proof of intelligence (the
+sequence of moves that demonstrates that the puzzle has a solution).
+      
+This directory includes the basic tools for solving this problem on a
+single processor including a class that can convert a string of
+characters into a configuration and a function that searches for a
+possible solution using an exhaustive depth-first search algorithm.
+Since some puzzles may have a larger search space than others, the
+amount of time required to solve any given puzzle cannot be predicted
+in advance.  A bag-of-tasks model provides a perfect strategy for
+solving this problem.  The bag-of-tasks model is implemented as using
+server-client strategy where the server implements a task queue.
+Tasks (puzzles) are given to clients to work on.  As clients finish
+their work, new tasks are assigned to them from the queue of
+unassigned tasks.
+
+Since many processors are working on the problem at the same time, it
+is possible to reduce the overall run-time to finish.  However, there
+are several overheads that are possible: load imbalance due to
+different finishing times, time spent idle waiting for messages to
+arrive, and bandwidth bottlenecks on the server process.  The queue
+scheduling strategy will work to eliminate the load imbalance due to
+different finishing times.  You can also help to reduce overheads that
+come from waiting on messages by sending two tasks to each client so
+that as one job finishes, the client has a chance to switch to a
+second task while waiting for more work from the server.
+
+
+In this assignment undergraduates have to implement the basic
+bag-of-tasks model to parallelize this application.  This means that
+the server will farm tasks out to the client and collect their
+results.  Also, I expect the undergraduates to implement a chunking
+strategy whereby tasks are sent in small clusters.  This method can be
+used to address performance issues related to a large startup time,
+t_s.  Note, the server will be responsible for writing the solutions
+to the file, so once a solution is found, the results need to be sent
+back to the server so that it can be written to a single output file.
+
+For the report I expect a performance analysis using one of the
+available models to anticipate how much parallel speedup should be
+obtained.  This analysis should include modeling the effects of
+chunking on performance.  Finally, run the parallel code on the
+problem with the given data file and obtain speedups from 1 to 32
+processors for a variety of chunk sizes and compare speedups with the
+theoretical analysis.  Write up the results in a short report that
+includes a description of the implementation, analysis and
+experimental results.  Also include a final summary that includes
+comparisons and contrasting statements regarding theoretical and
+experimental findings.
+
+In addition to the undergraduate assignment, graduate students are
+expected to have the server process also do the work of clients using
+MPI_Isend/MPI_Irecv and MPI_Test/MPI_Wait.  If chunking is used, then
+the processor that runs the server will test between each task
+execution by the client.  This should allow the server process to do
+useful work as well as the clients.  You theoretical analysis should
+discuss the effects of having the server do client work.  What are the
+benefits and costs of doing this?
+

@@ -1,0 +1,10580 @@
+found solution:
+ XX  
+XXXX*
+ XXX 
+ XXX 
+XXX  
+-->
+ XX  
+XX**X
+ XXX 
+ XXX 
+XXX  
+-->
+ XX  
+**X*X
+ XXX 
+ XXX 
+XXX  
+-->
+ XX  
+*XX*X
+ *XX 
+ *XX 
+XXX  
+-->
+ XX  
+*XX*X
+ X** 
+ *XX 
+XXX  
+-->
+ XX  
+*XX*X
+ XX* 
+ **X 
+XX*  
+-->
+ XX  
+*X**X
+ X** 
+ *XX 
+XX*  
+-->
+ XX  
+*X**X
+ X** 
+ *XX 
+**X  
+-->
+ XX  
+*X**X
+ XX* 
+ **X 
+***  
+-->
+ XX  
+*X**X
+ **X 
+ **X 
+***  
+-->
+ *X  
+****X
+ X*X 
+ **X 
+***  
+-->
+ *X  
+***XX
+ X** 
+ *** 
+***  
+-->
+ *X  
+**X**
+ X** 
+ *** 
+***  
+-->
+ **  
+*****
+ XX* 
+ *** 
+***  
+-->
+ **  
+*****
+ **X 
+ *** 
+***  
+solved
+
+found solution:
+   X 
+ XX* 
+XXXX 
+XXXX 
+XXXX 
+-->
+   X 
+ **X 
+XXXX 
+XXXX 
+XXXX 
+-->
+   X 
+ X*X 
+X*XX 
+X*XX 
+XXXX 
+-->
+   X 
+ X*X 
+XX** 
+X*XX 
+XXXX 
+-->
+   X 
+ X*X 
+XX** 
+XX** 
+XXXX 
+-->
+   X 
+ X*X 
+**X* 
+XX** 
+XXXX 
+-->
+   X 
+ X*X 
+X*X* 
+*X** 
+*XXX 
+-->
+   X 
+ X*X 
+XXX* 
+**** 
+**XX 
+-->
+   X 
+ **X 
+X*X* 
+*X** 
+**XX 
+-->
+   X 
+ **X 
+X*X* 
+*X** 
+*X** 
+-->
+   * 
+ *** 
+X*XX 
+*X** 
+*X** 
+-->
+   * 
+ *** 
+XX** 
+*X** 
+*X** 
+-->
+   * 
+ *** 
+**X* 
+*X** 
+*X** 
+-->
+   * 
+ *** 
+*XX* 
+**** 
+**** 
+-->
+   * 
+ *** 
+X*** 
+**** 
+**** 
+solved
+
+found solution:
+  X X
+XXXXX
+XXXXX
+*XXX 
+     
+-->
+  X X
+XXXXX
+XXXXX
+X**X 
+     
+-->
+  X X
+X*XXX
+X*XXX
+XX*X 
+     
+-->
+  X X
+X*XXX
+XX**X
+XX*X 
+     
+-->
+  * X
+X**XX
+XXX*X
+XX*X 
+     
+-->
+  * X
+X**XX
+XXX*X
+**XX 
+     
+-->
+  * X
+***XX
+*XX*X
+X*XX 
+     
+-->
+  * X
+***XX
+*XX*X
+XX** 
+     
+-->
+  * X
+***XX
+*XX*X
+**X* 
+     
+-->
+  * X
+***XX
+***XX
+**X* 
+     
+-->
+  * X
+***XX
+**X**
+**X* 
+     
+-->
+  * X
+**XXX
+*****
+**** 
+     
+-->
+  * *
+**XX*
+****X
+**** 
+     
+-->
+  * *
+****X
+****X
+**** 
+     
+-->
+  * X
+*****
+*****
+**** 
+     
+solved
+
+found solution:
+XXXX 
+XXXXX
+ XXXX
+   XX
+    *
+-->
+XXXX 
+XXXXX
+ XXX*
+   X*
+    X
+-->
+XXXX 
+XXXXX
+ X**X
+   X*
+    X
+-->
+XX*X 
+XX*XX
+ XX*X
+   X*
+    X
+-->
+**XX 
+XX*XX
+ XX*X
+   X*
+    X
+-->
+*X** 
+XX*XX
+ XX*X
+   X*
+    X
+-->
+*X** 
+**XXX
+ XX*X
+   X*
+    X
+-->
+*X** 
+*X**X
+ XX*X
+   X*
+    X
+-->
+*X** 
+*X**X
+ **XX
+   X*
+    X
+-->
+**** 
+****X
+ X*XX
+   X*
+    X
+-->
+**** 
+*****
+ X*X*
+   XX
+    X
+-->
+**** 
+*****
+ X*XX
+   X*
+    *
+-->
+**** 
+*****
+ XX**
+   X*
+    *
+-->
+**** 
+*****
+ **X*
+   X*
+    *
+-->
+**** 
+***X*
+ ****
+   **
+    *
+solved
+
+found solution:
+XXXX 
+XXXX 
+*XXX 
+  XX 
+  XX 
+-->
+XXXX 
+XXXX 
+X**X 
+  XX 
+  XX 
+-->
+X*XX 
+X*XX 
+XX*X 
+  XX 
+  XX 
+-->
+XX** 
+X*XX 
+XX*X 
+  XX 
+  XX 
+-->
+XX** 
+XX** 
+XX*X 
+  XX 
+  XX 
+-->
+**X* 
+XX** 
+XX*X 
+  XX 
+  XX 
+-->
+*XX* 
+X*** 
+X**X 
+  XX 
+  XX 
+-->
+X*** 
+X*** 
+X**X 
+  XX 
+  XX 
+-->
+X*** 
+X*** 
+X*XX 
+  *X 
+  *X 
+-->
+X*** 
+X*** 
+XX** 
+  *X 
+  *X 
+-->
+X*** 
+X*** 
+**X* 
+  *X 
+  *X 
+-->
+**** 
+**** 
+X*X* 
+  *X 
+  *X 
+-->
+**** 
+**** 
+X*XX 
+  ** 
+  ** 
+-->
+**** 
+**** 
+XX** 
+  ** 
+  ** 
+-->
+**** 
+**** 
+**X* 
+  ** 
+  ** 
+solved
+
+found solution:
+     
+X    
+*XXXX
+XXXXX
+XXXXX
+-->
+     
+X    
+XXXXX
+*XXXX
+*XXXX
+-->
+     
+*    
+*XXXX
+XXXXX
+*XXXX
+-->
+     
+*    
+X**XX
+XXXXX
+*XXXX
+-->
+     
+X    
+***XX
+*XXXX
+*XXXX
+-->
+     
+X    
+*X*XX
+**XXX
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+*X**X
+-->
+     
+X    
+*XX**
+*X**X
+*X**X
+-->
+     
+X    
+***X*
+*X**X
+*X**X
+-->
+     
+X    
+*X*X*
+****X
+****X
+-->
+     
+X    
+*X*XX
+*****
+*****
+-->
+     
+X    
+*XX**
+*****
+*****
+-->
+     
+X    
+X****
+*****
+*****
+-->
+     
+*    
+*****
+X****
+*****
+solved
+
+found solution:
+    X
+  XX*
+  XXX
+ XXXX
+XXXXX
+-->
+    X
+  XXX
+  XX*
+ XXX*
+XXXXX
+-->
+    *
+  XX*
+  XXX
+ XXX*
+XXXXX
+-->
+    *
+  **X
+  XXX
+ XXX*
+XXXXX
+-->
+    *
+  X*X
+  *XX
+ X*X*
+XXXXX
+-->
+    *
+  X**
+  *X*
+ X*XX
+XXXXX
+-->
+    *
+  X**
+  *X*
+ XX**
+XXXXX
+-->
+    *
+  X**
+  XX*
+ X***
+XX*XX
+-->
+    *
+  ***
+  *X*
+ XX**
+XX*XX
+-->
+    *
+  ***
+  *X*
+ XX**
+**XXX
+-->
+    *
+  ***
+  *X*
+ XX**
+*X**X
+-->
+    *
+  ***
+  *X*
+ **X*
+*X**X
+-->
+    *
+  ***
+  ***
+ ****
+*X*XX
+-->
+    *
+  ***
+  ***
+ ****
+*XX**
+-->
+    *
+  ***
+  ***
+ ****
+X****
+solved
+
+found solution:
+ X   
+ X*  
+ XXX 
+XXXXX
+XXXXX
+-->
+ X   
+ XX  
+ X*X 
+XX*XX
+XXXXX
+-->
+ X   
+ XX  
+ X*X 
+XXX**
+XXXXX
+-->
+ X   
+ XX  
+ XXX 
+XX***
+XX*XX
+-->
+ X   
+ XX  
+ XXX 
+**X**
+XX*XX
+-->
+ X   
+ *X  
+ *XX 
+*XX**
+XX*XX
+-->
+ X   
+ *X  
+ X** 
+*XX**
+XX*XX
+-->
+ X   
+ XX  
+ *** 
+**X**
+XX*XX
+-->
+ *   
+ *X  
+ X** 
+**X**
+XX*XX
+-->
+ *   
+ *X  
+ X** 
+**X**
+XXX**
+-->
+ *   
+ *X  
+ XX* 
+*****
+XX***
+-->
+ *   
+ **  
+ X** 
+**X**
+XX***
+-->
+ *   
+ **  
+ X** 
+**X**
+**X**
+-->
+ *   
+ **  
+ XX* 
+*****
+*****
+-->
+ *   
+ **  
+ **X 
+*****
+*****
+solved
+
+found solution:
+XXXX 
+XXXXX
+XXXX 
+  X* 
+   X 
+-->
+XXXX 
+XXX*X
+XXX* 
+  XX 
+   X 
+-->
+XXXX 
+X**XX
+XXX* 
+  XX 
+   X 
+-->
+XXXX 
+X*XXX
+XX** 
+  *X 
+   X 
+-->
+XXXX 
+X*XXX
+**X* 
+  *X 
+   X 
+-->
+*XXX 
+**XXX
+X*X* 
+  *X 
+   X 
+-->
+X**X 
+**XXX
+X*X* 
+  *X 
+   X 
+-->
+X*XX 
+***XX
+X*** 
+  *X 
+   X 
+-->
+XX** 
+***XX
+X*** 
+  *X 
+   X 
+-->
+**X* 
+***XX
+X*** 
+  *X 
+   X 
+-->
+**X* 
+**X**
+X*** 
+  *X 
+   X 
+-->
+**** 
+*****
+X*X* 
+  *X 
+   X 
+-->
+**** 
+*****
+X*XX 
+  ** 
+   * 
+-->
+**** 
+*****
+XX** 
+  ** 
+   * 
+-->
+**** 
+*****
+**X* 
+  ** 
+   * 
+solved
+
+found solution:
+  X  
+  XX 
+XXX* 
+XXXXX
+XXXX 
+-->
+  X  
+  XX 
+X**X 
+XXXXX
+XXXX 
+-->
+  X  
+  XX 
+XX*X 
+X*XXX
+X*XX 
+-->
+  X  
+  XX 
+XX*X 
+XX**X
+X*XX 
+-->
+  X  
+  XX 
+XX*X 
+XX**X
+XX** 
+-->
+  X  
+  XX 
+**XX 
+XX**X
+XX** 
+-->
+  X  
+  XX 
+X*XX 
+*X**X
+*X** 
+-->
+  X  
+  XX 
+XX** 
+*X**X
+*X** 
+-->
+  X  
+  XX 
+**X* 
+*X**X
+*X** 
+-->
+  X  
+  XX 
+*XX* 
+****X
+**** 
+-->
+  X  
+  XX 
+***X 
+****X
+**** 
+-->
+  *  
+  *X 
+**XX 
+****X
+**** 
+-->
+  *  
+  ** 
+**X* 
+***XX
+**** 
+-->
+  *  
+  ** 
+**X* 
+**X**
+**** 
+-->
+  *  
+  X* 
+**** 
+*****
+**** 
+solved
+
+found solution:
+XXX  
+XX   
+*XXXX
+XXXX 
+  XX 
+-->
+*XX  
+*X   
+XXXXX
+XXXX 
+  XX 
+-->
+X**  
+*X   
+XXXXX
+XXXX 
+  XX 
+-->
+X**  
+XX   
+*XXXX
+*XXX 
+  XX 
+-->
+***  
+*X   
+XXXXX
+*XXX 
+  XX 
+-->
+***  
+*X   
+XXXXX
+X**X 
+  XX 
+-->
+***  
+XX   
+*XXXX
+***X 
+  XX 
+-->
+***  
+XX   
+X**XX
+***X 
+  XX 
+-->
+***  
+*X   
+***XX
+X**X 
+  XX 
+-->
+***  
+*X   
+**X**
+X**X 
+  XX 
+-->
+***  
+*X   
+**XX*
+X*** 
+  X* 
+-->
+***  
+*X   
+*X***
+X*** 
+  X* 
+-->
+***  
+**   
+*****
+XX** 
+  X* 
+-->
+***  
+**   
+*****
+**X* 
+  X* 
+-->
+***  
+**   
+**X**
+**** 
+  ** 
+solved
+
+found solution:
+XXXX 
+XXXXX
+  XXX
+   XX
+   X*
+-->
+XXXX 
+XXXXX
+  XX*
+   X*
+   XX
+-->
+XXXX 
+XXXXX
+  **X
+   X*
+   XX
+-->
+XX*X 
+XX*XX
+  X*X
+   X*
+   XX
+-->
+**XX 
+XX*XX
+  X*X
+   X*
+   XX
+-->
+*X** 
+XX*XX
+  X*X
+   X*
+   XX
+-->
+*X** 
+**XXX
+  X*X
+   X*
+   XX
+-->
+*XX* 
+***XX
+  **X
+   X*
+   XX
+-->
+***X 
+***XX
+  **X
+   X*
+   XX
+-->
+***X 
+***XX
+  *XX
+   **
+   *X
+-->
+***X 
+***XX
+  X**
+   **
+   *X
+-->
+**** 
+****X
+  XX*
+   **
+   *X
+-->
+**** 
+****X
+  **X
+   **
+   *X
+-->
+**** 
+*****
+  ***
+   *X
+   *X
+-->
+**** 
+*****
+  **X
+   **
+   **
+solved
+
+found solution:
+  X X
+  XXX
+  XXX
+ XXXX
+ *XXX
+-->
+  X X
+  XXX
+  XXX
+ XXXX
+ X**X
+-->
+  X X
+  XXX
+  X*X
+ XX*X
+ X*XX
+-->
+  X X
+  XXX
+  X*X
+ XX*X
+ XX**
+-->
+  X X
+  XXX
+  X*X
+ **XX
+ XX**
+-->
+  X X
+  *XX
+  **X
+ *XXX
+ XX**
+-->
+  X X
+  X**
+  **X
+ *XXX
+ XX**
+-->
+  * X
+  ***
+  X*X
+ *XXX
+ XX**
+-->
+  * X
+  X**
+  **X
+ **XX
+ XX**
+-->
+  * X
+  X**
+  **X
+ **XX
+ **X*
+-->
+  * X
+  X**
+  *XX
+ ***X
+ ****
+-->
+  * X
+  X*X
+  *X*
+ ****
+ ****
+-->
+  * *
+  X**
+  *XX
+ ****
+ ****
+-->
+  * *
+  X**
+  X**
+ ****
+ ****
+-->
+  X *
+  ***
+  ***
+ ****
+ ****
+solved
+
+found solution:
+     
+XXXXX
+ XX X
+ XXXX
+ *XXX
+-->
+     
+XXXXX
+ XX X
+ XXXX
+ X**X
+-->
+     
+XXXXX
+ X* X
+ X*XX
+ XX*X
+-->
+     
+XXXXX
+ X* X
+ XX**
+ XX*X
+-->
+     
+XXXXX
+ X* X
+ **X*
+ XX*X
+-->
+     
+X*XXX
+ ** X
+ X*X*
+ XX*X
+-->
+     
+XX**X
+ ** X
+ X*X*
+ XX*X
+-->
+     
+**X*X
+ ** X
+ X*X*
+ XX*X
+-->
+     
+**X*X
+ ** X
+ X*X*
+ **XX
+-->
+     
+**X*X
+ ** X
+ X*X*
+ *X**
+-->
+     
+**X**
+ ** *
+ X*XX
+ *X**
+-->
+     
+**X**
+ ** *
+ XX**
+ *X**
+-->
+     
+**X**
+ *X *
+ X***
+ ****
+-->
+     
+*****
+ ** *
+ XX**
+ ****
+-->
+     
+*****
+ ** *
+ **X*
+ ****
+solved
+
+found solution:
+ *XXX
+  XXX
+XXXXX
+  XXX
+  X  
+-->
+ X**X
+  XXX
+XXXXX
+  XXX
+  X  
+-->
+ XX*X
+  *XX
+XX*XX
+  XXX
+  X  
+-->
+ XX*X
+  X**
+XX*XX
+  XXX
+  X  
+-->
+ XX*X
+  X**
+XXX**
+  XXX
+  X  
+-->
+ **XX
+  X**
+XXX**
+  XXX
+  X  
+-->
+ *X**
+  X**
+XXX**
+  XXX
+  X  
+-->
+ *X**
+  X**
+X**X*
+  XXX
+  X  
+-->
+ *X**
+  X**
+X*XX*
+  *XX
+  *  
+-->
+ *X**
+  X**
+XX***
+  *XX
+  *  
+-->
+ ****
+  ***
+XXX**
+  *XX
+  *  
+-->
+ ****
+  ***
+XXX**
+  X**
+  *  
+-->
+ ****
+  X**
+XX***
+  ***
+  *  
+-->
+ ****
+  X**
+**X**
+  ***
+  *  
+-->
+ *X**
+  ***
+*****
+  ***
+  *  
+solved
+
+found solution:
+XXX* 
+XXX  
+XXXX 
+XXX  
+ XX  
+-->
+X**X 
+XXX  
+XXXX 
+XXX  
+ XX  
+-->
+XX*X 
+X*X  
+X*XX 
+XXX  
+ XX  
+-->
+XX*X 
+X*X  
+XX** 
+XXX  
+ XX  
+-->
+**XX 
+X*X  
+XX** 
+XXX  
+ XX  
+-->
+X*XX 
+**X  
+*X** 
+XXX  
+ XX  
+-->
+XX** 
+**X  
+*X** 
+XXX  
+ XX  
+-->
+**X* 
+**X  
+*X** 
+XXX  
+ XX  
+-->
+**X* 
+**X  
+*XX* 
+XX*  
+ X*  
+-->
+**X* 
+**X  
+X*** 
+XX*  
+ X*  
+-->
+**X* 
+X*X  
+**** 
+*X*  
+ X*  
+-->
+**X* 
+X*X  
+*X** 
+***  
+ **  
+-->
+**** 
+X**  
+*XX* 
+***  
+ **  
+-->
+**** 
+X**  
+X*** 
+***  
+ **  
+-->
+X*** 
+***  
+**** 
+***  
+ **  
+solved
+
+found solution:
+     
+  XXX
+X XX*
+XXX X
+XXXXX
+-->
+     
+  XXX
+X XXX
+XXX *
+XXXX*
+-->
+     
+  XX*
+X XX*
+XXX X
+XXXX*
+-->
+     
+  XX*
+X **X
+XXX X
+XXXX*
+-->
+     
+  XX*
+X X*X
+XX* X
+XX*X*
+-->
+     
+  *X*
+X **X
+XXX X
+XX*X*
+-->
+     
+  *X*
+X **X
+XXX X
+**XX*
+-->
+     
+  *X*
+* **X
+*XX X
+X*XX*
+-->
+     
+  *X*
+* **X
+*XX X
+XX***
+-->
+     
+  *X*
+* **X
+*XX X
+**X**
+-->
+     
+  *X*
+* X*X
+*X* X
+*****
+-->
+     
+  *XX
+* X**
+*X* *
+*****
+-->
+     
+  X**
+* X**
+*X* *
+*****
+-->
+     
+  ***
+* ***
+*XX *
+*****
+-->
+     
+  ***
+* ***
+X** *
+*****
+solved
+
+found solution:
+ X XX
+ *XXX
+ XXXX
+ XXX 
+  XX 
+-->
+ X XX
+ XXXX
+ *XXX
+ *XX 
+  XX 
+-->
+ X XX
+ XXXX
+ X**X
+ *XX 
+  XX 
+-->
+ X XX
+ *XXX
+ ***X
+ XXX 
+  XX 
+-->
+ X XX
+ *XXX
+ *X*X
+ X*X 
+  *X 
+-->
+ X XX
+ *XXX
+ *XXX
+ X** 
+  ** 
+-->
+ X XX
+ *XXX
+ X**X
+ X** 
+  ** 
+-->
+ X XX
+ XXXX
+ ***X
+ *** 
+  ** 
+-->
+ * XX
+ *XXX
+ X**X
+ *** 
+  ** 
+-->
+ * *X
+ *X*X
+ X*XX
+ *** 
+  ** 
+-->
+ * *X
+ *X*X
+ XX**
+ *** 
+  ** 
+-->
+ * *X
+ *X*X
+ **X*
+ *** 
+  ** 
+-->
+ * **
+ *X**
+ **XX
+ *** 
+  ** 
+-->
+ * **
+ *X**
+ *X**
+ *** 
+  ** 
+-->
+ * **
+ ****
+ ****
+ *X* 
+  ** 
+solved
+
+found solution:
+XXXX 
+XXXX 
+XXX* 
+XXX  
+X    
+-->
+XXXX 
+XXXX 
+X**X 
+XXX  
+X    
+-->
+X*XX 
+X*XX 
+XX*X 
+XXX  
+X    
+-->
+XX** 
+X*XX 
+XX*X 
+XXX  
+X    
+-->
+XX** 
+XX** 
+XX*X 
+XXX  
+X    
+-->
+**X* 
+XX** 
+XX*X 
+XXX  
+X    
+-->
+X*X* 
+*X** 
+*X*X 
+XXX  
+X    
+-->
+X*X* 
+*X** 
+XX*X 
+*XX  
+*    
+-->
+X*X* 
+*X** 
+XX*X 
+X**  
+*    
+-->
+X*X* 
+XX** 
+*X*X 
+***  
+*    
+-->
+**X* 
+*X** 
+XX*X 
+***  
+*    
+-->
+**X* 
+*X** 
+**XX 
+***  
+*    
+-->
+**X* 
+*X** 
+*X** 
+***  
+*    
+-->
+*XX* 
+**** 
+**** 
+***  
+*    
+-->
+X*** 
+**** 
+**** 
+***  
+*    
+solved
+
+found solution:
+XXXX 
+XXXXX
+ XXXX
+ *XX 
+     
+-->
+XXXX 
+XXXXX
+ XXXX
+ X** 
+     
+-->
+XXXX 
+XX*XX
+ X*XX
+ XX* 
+     
+-->
+XXXX 
+XXX**
+ X*XX
+ XX* 
+     
+-->
+XXXX 
+XXX**
+ XX**
+ XX* 
+     
+-->
+XXXX 
+X**X*
+ XX**
+ XX* 
+     
+-->
+XXXX 
+XX*X*
+ *X**
+ *X* 
+     
+-->
+X*XX 
+X**X*
+ XX**
+ *X* 
+     
+-->
+XX** 
+X**X*
+ XX**
+ *X* 
+     
+-->
+**X* 
+X**X*
+ XX**
+ *X* 
+     
+-->
+**X* 
+X*XX*
+ X***
+ *** 
+     
+-->
+**X* 
+XX***
+ X***
+ *** 
+     
+-->
+**X* 
+**X**
+ X***
+ *** 
+     
+-->
+**** 
+*****
+ XX**
+ *** 
+     
+-->
+**** 
+*****
+ **X*
+ *** 
+     
+solved
+
+found solution:
+     
+X*XX 
+XXXX 
+XXX  
+XXXXX
+-->
+     
+XX** 
+XXXX 
+XXX  
+XXXXX
+-->
+     
+**X* 
+XXXX 
+XXX  
+XXXXX
+-->
+     
+X*X* 
+*XXX 
+*XX  
+XXXXX
+-->
+     
+X*X* 
+X**X 
+*XX  
+XXXXX
+-->
+     
+**X* 
+***X 
+XXX  
+XXXXX
+-->
+     
+**X* 
+X**X 
+*XX  
+*XXXX
+-->
+     
+**X* 
+X**X 
+*XX  
+X**XX
+-->
+     
+**X* 
+X**X 
+*XX  
+X*X**
+-->
+     
+**X* 
+X*XX 
+*X*  
+X****
+-->
+     
+**X* 
+XX** 
+*X*  
+X****
+-->
+     
+*XX* 
+X*** 
+***  
+X****
+-->
+     
+X*** 
+X*** 
+***  
+X****
+-->
+     
+**** 
+**** 
+X**  
+X****
+-->
+     
+**** 
+X*** 
+***  
+*****
+solved
+
+found solution:
+     
+ XX* 
+XXXX 
+XXXX 
+XXXXX
+-->
+     
+ **X 
+XXXX 
+XXXX 
+XXXXX
+-->
+     
+ *XX 
+XX*X 
+XX*X 
+XXXXX
+-->
+     
+ X** 
+XX*X 
+XX*X 
+XXXXX
+-->
+     
+ X** 
+**XX 
+XX*X 
+XXXXX
+-->
+     
+ X** 
+X*XX 
+*X*X 
+*XXXX
+-->
+     
+ X** 
+XX** 
+*X*X 
+*XXXX
+-->
+     
+ X** 
+**X* 
+*X*X 
+*XXXX
+-->
+     
+ X** 
+*XX* 
+***X 
+**XXX
+-->
+     
+ *** 
+**X* 
+*X*X 
+**XXX
+-->
+     
+ *** 
+**X* 
+*X*X 
+*X**X
+-->
+     
+ *** 
+*XX* 
+***X 
+****X
+-->
+     
+ *** 
+***X 
+***X 
+****X
+-->
+     
+ *** 
+**** 
+**** 
+***XX
+-->
+     
+ *** 
+**** 
+**** 
+**X**
+solved
+
+found solution:
+X    
+*XX  
+XXX  
+XXXX 
+XXXXX
+-->
+X    
+XXX  
+*XX  
+*XXX 
+XXXXX
+-->
+*    
+*XX  
+XXX  
+*XXX 
+XXXXX
+-->
+*    
+X**  
+XXX  
+*XXX 
+XXXXX
+-->
+*    
+***  
+*XX  
+XXXX 
+XXXXX
+-->
+*    
+**X  
+*X*  
+XX*X 
+XXXXX
+-->
+*    
+**X  
+*X*  
+**XX 
+XXXXX
+-->
+*    
+**X  
+*XX  
+***X 
+XX*XX
+-->
+*    
+***  
+*X*  
+**XX 
+XX*XX
+-->
+*    
+***  
+*X*  
+*X** 
+XX*XX
+-->
+*    
+***  
+*X*  
+*X** 
+XXX**
+-->
+*    
+***  
+*X*  
+*X** 
+X**X*
+-->
+*    
+***  
+***  
+**** 
+XX*X*
+-->
+*    
+***  
+***  
+**** 
+**XX*
+-->
+*    
+***  
+***  
+**** 
+*X***
+solved
+
+found solution:
+  XX 
+ XXXX
+  XXX
+  XXX
+ *XXX
+-->
+  XX 
+ XXXX
+  XXX
+  XXX
+ X**X
+-->
+  XX 
+ XXXX
+  *XX
+  *XX
+ XX*X
+-->
+  XX 
+ XXXX
+  X**
+  *XX
+ XX*X
+-->
+  XX 
+ XXXX
+  X**
+  X**
+ XX*X
+-->
+  X* 
+ XX*X
+  XX*
+  X**
+ XX*X
+-->
+  X* 
+ **XX
+  XX*
+  X**
+ XX*X
+-->
+  X* 
+ *XXX
+  *X*
+  ***
+ XX*X
+-->
+  ** 
+ **XX
+  XX*
+  ***
+ XX*X
+-->
+  ** 
+ *X**
+  XX*
+  ***
+ XX*X
+-->
+  ** 
+ ****
+  *X*
+  X**
+ XX*X
+-->
+  ** 
+ ****
+  *X*
+  X**
+ **XX
+-->
+  ** 
+ ****
+  *X*
+  X**
+ *X**
+-->
+  ** 
+ ****
+  XX*
+  ***
+ ****
+-->
+  ** 
+ ****
+  **X
+  ***
+ ****
+solved
+
+found solution:
+   X 
+  XXX
+  XXX
+XXXXX
+*XXX 
+-->
+   X 
+  XXX
+  XXX
+XXXXX
+X**X 
+-->
+   X 
+  XXX
+  *XX
+XX*XX
+X*XX 
+-->
+   X 
+  XXX
+  *XX
+XX*XX
+XX** 
+-->
+   X 
+  XXX
+  X**
+XX*XX
+XX** 
+-->
+   X 
+  XXX
+  X**
+XXX**
+XX** 
+-->
+   X 
+  XXX
+  X**
+XXX**
+**X* 
+-->
+   * 
+  X*X
+  XX*
+XXX**
+**X* 
+-->
+   * 
+  X*X
+  XX*
+X**X*
+**X* 
+-->
+   * 
+  **X
+  *X*
+X*XX*
+**X* 
+-->
+   * 
+  **X
+  *X*
+XX***
+**X* 
+-->
+   * 
+  **X
+  *X*
+**X**
+**X* 
+-->
+   * 
+  **X
+  XX*
+*****
+**** 
+-->
+   * 
+  **X
+  **X
+*****
+**** 
+-->
+   * 
+  ***
+  ***
+****X
+**** 
+solved
+
+found solution:
+     
+X X  
+XX* X
+XXXXX
+XXXXX
+-->
+     
+X X  
+XXX X
+XX*XX
+XX*XX
+-->
+     
+X *  
+XX* X
+XXXXX
+XX*XX
+-->
+     
+X *  
+**X X
+XXXXX
+XX*XX
+-->
+     
+X *  
+X*X X
+*XXXX
+*X*XX
+-->
+     
+* *  
+**X X
+XXXXX
+*X*XX
+-->
+     
+* X  
+*** X
+XX*XX
+*X*XX
+-->
+     
+* X  
+*** X
+**XXX
+*X*XX
+-->
+     
+* X  
+*** X
+**XXX
+*XX**
+-->
+     
+* X  
+*** X
+**XXX
+***X*
+-->
+     
+* X  
+*** *
+**XX*
+***XX
+-->
+     
+* X  
+*** *
+**XX*
+**X**
+-->
+     
+* X  
+**X *
+***X*
+*****
+-->
+     
+* *  
+*** *
+**XX*
+*****
+-->
+     
+* *  
+*** *
+*X***
+*****
+solved
+
+found solution:
+     
+X    
+XXXXX
+*XXXX
+XXXXX
+-->
+     
+*    
+*XXXX
+XXXXX
+XXXXX
+-->
+     
+*    
+X**XX
+XXXXX
+XXXXX
+-->
+     
+X    
+***XX
+*XXXX
+XXXXX
+-->
+     
+X    
+*X*XX
+**XXX
+X*XXX
+-->
+     
+X    
+*X*XX
+*X**X
+X*XXX
+-->
+     
+X    
+*X*XX
+*X**X
+XX**X
+-->
+     
+X    
+*XX**
+*X**X
+XX**X
+-->
+     
+X    
+***X*
+*X**X
+XX**X
+-->
+     
+X    
+*X*X*
+****X
+X***X
+-->
+     
+X    
+*X*XX
+*****
+X****
+-->
+     
+X    
+*XX**
+*****
+X****
+-->
+     
+X    
+X****
+*****
+X****
+-->
+     
+*    
+*****
+X****
+X****
+-->
+     
+*    
+X****
+*****
+*****
+solved
+
+found solution:
+ X   
+XXXX 
+XXXX 
+XX*X 
+XXX  
+-->
+ X   
+XXXX 
+XXXX 
+**XX 
+XXX  
+-->
+ X   
+*XXX 
+*XXX 
+X*XX 
+XXX  
+-->
+ X   
+X**X 
+*XXX 
+X*XX 
+XXX  
+-->
+ X   
+X**X 
+XXXX 
+**XX 
+*XX  
+-->
+ X   
+***X 
+*XXX 
+X*XX 
+*XX  
+-->
+ X   
+***X 
+*XXX 
+X*XX 
+X**  
+-->
+ X   
+***X 
+XXXX 
+**XX 
+***  
+-->
+ X   
+***X 
+XXXX 
+*X** 
+***  
+-->
+ X   
+*X*X 
+X*XX 
+**** 
+***  
+-->
+ X   
+*X*X 
+XX** 
+**** 
+***  
+-->
+ X   
+*X*X 
+**X* 
+**** 
+***  
+-->
+ *   
+***X 
+*XX* 
+**** 
+***  
+-->
+ *   
+***X 
+***X 
+**** 
+***  
+-->
+ *   
+**** 
+**** 
+***X 
+***  
+solved
+
+found solution:
+     
+   XX
+*XXXX
+ XXXX
+XXXXX
+-->
+     
+   XX
+X**XX
+ XXXX
+XXXXX
+-->
+     
+   XX
+XX*XX
+ *XXX
+X*XXX
+-->
+     
+   XX
+XX*XX
+ *XXX
+XX**X
+-->
+     
+   XX
+**XXX
+ *XXX
+XX**X
+-->
+     
+   XX
+*X**X
+ *XXX
+XX**X
+-->
+     
+   XX
+*X**X
+ *XXX
+**X*X
+-->
+     
+   XX
+*XX*X
+ **XX
+****X
+-->
+     
+   XX
+*XX*X
+ *X**
+****X
+-->
+     
+   XX
+***XX
+ *X**
+****X
+-->
+     
+   *X
+****X
+ *XX*
+****X
+-->
+     
+   **
+*****
+ *XXX
+****X
+-->
+     
+   **
+****X
+ *XX*
+*****
+-->
+     
+   **
+****X
+ ***X
+*****
+-->
+     
+   *X
+*****
+ ****
+*****
+solved
+
+found solution:
+XXX  
+XXXXX
+*XXX 
+XX   
+XX   
+-->
+XXX  
+XXXXX
+X**X 
+XX   
+XX   
+-->
+XXX  
+XXXXX
+XX*X 
+X*   
+X*   
+-->
+XXX  
+XXXXX
+**XX 
+X*   
+X*   
+-->
+XXX  
+XXXXX
+X*XX 
+**   
+**   
+-->
+XXX  
+*XXXX
+**XX 
+X*   
+**   
+-->
+XXX  
+X**XX
+**XX 
+X*   
+**   
+-->
+*XX  
+***XX
+X*XX 
+X*   
+**   
+-->
+X**  
+***XX
+X*XX 
+X*   
+**   
+-->
+X**  
+X**XX
+**XX 
+**   
+**   
+-->
+***  
+***XX
+X*XX 
+**   
+**   
+-->
+***  
+***XX
+XX** 
+**   
+**   
+-->
+***  
+**X**
+XX** 
+**   
+**   
+-->
+***  
+**X**
+**X* 
+**   
+**   
+-->
+**X  
+*****
+**** 
+**   
+**   
+solved
+
+found solution:
+XXX  
+XXXX 
+XXXX 
+XXX  
+X*   
+-->
+XXX  
+XXXX 
+X*XX 
+X*X  
+XX   
+-->
+XXX  
+XXXX 
+XX** 
+X*X  
+XX   
+-->
+XXX  
+X*XX 
+X*** 
+XXX  
+XX   
+-->
+XXX  
+XX** 
+X*** 
+XXX  
+XX   
+-->
+XXX  
+XX** 
+XX** 
+X*X  
+X*   
+-->
+XXX  
+**X* 
+XX** 
+X*X  
+X*   
+-->
+XXX  
+X*X* 
+*X** 
+**X  
+X*   
+-->
+XX*  
+X*** 
+*XX* 
+**X  
+X*   
+-->
+**X  
+X*** 
+*XX* 
+**X  
+X*   
+-->
+**X  
+X*X* 
+*X** 
+***  
+X*   
+-->
+***  
+X*** 
+*XX* 
+***  
+X*   
+-->
+***  
+X*** 
+X*** 
+***  
+X*   
+-->
+***  
+**** 
+**** 
+X**  
+X*   
+-->
+***  
+**** 
+X*** 
+***  
+**   
+solved
+
+found solution:
+    X
+  *XX
+XXXXX
+ XX X
+ XXXX
+-->
+    X
+  X**
+XXXXX
+ XX X
+ XXXX
+-->
+    X
+  X*X
+XXXX*
+ XX *
+ XXXX
+-->
+    X
+  X*X
+XX**X
+ XX *
+ XXXX
+-->
+    X
+  X*X
+**X*X
+ XX *
+ XXXX
+-->
+    X
+  X*X
+*XX*X
+ *X *
+ *XXX
+-->
+    X
+  X*X
+***XX
+ *X *
+ *XXX
+-->
+    X
+  X*X
+**XXX
+ ** *
+ **XX
+-->
+    X
+  **X
+***XX
+ *X *
+ **XX
+-->
+    X
+  **X
+***XX
+ *X *
+ *X**
+-->
+    X
+  **X
+**XXX
+ ** *
+ ****
+-->
+    X
+  ***
+**XX*
+ ** X
+ ****
+-->
+    X
+  ***
+****X
+ ** X
+ ****
+-->
+    X
+  **X
+*****
+ ** *
+ ****
+-->
+    *
+  ***
+****X
+ ** *
+ ****
+solved
+
+found solution:
+XXX  
+XXX  
+XXXX 
+ XX  
+ XXX*
+-->
+XXX  
+XXX  
+XXXX 
+ XX  
+ X**X
+-->
+XXX  
+XXX  
+XX*X 
+ X*  
+ XX*X
+-->
+XXX  
+XXX  
+**XX 
+ X*  
+ XX*X
+-->
+*XX  
+*XX  
+X*XX 
+ X*  
+ XX*X
+-->
+*XX  
+*XX  
+XX** 
+ X*  
+ XX*X
+-->
+*XX  
+*XX  
+**X* 
+ X*  
+ XX*X
+-->
+**X  
+**X  
+*XX* 
+ X*  
+ XX*X
+-->
+**X  
+**X  
+***X 
+ X*  
+ XX*X
+-->
+***  
+***  
+**XX 
+ X*  
+ XX*X
+-->
+***  
+***  
+*X** 
+ X*  
+ XX*X
+-->
+***  
+***  
+*X** 
+ X*  
+ **XX
+-->
+***  
+***  
+**** 
+ **  
+ X*XX
+-->
+***  
+***  
+**** 
+ **  
+ XX**
+-->
+***  
+***  
+**** 
+ **  
+ **X*
+solved
+
+found solution:
+X    
+XX   
+XXXX 
+*XXXX
+ XXXX
+-->
+X    
+*X   
+*XXX 
+XXXXX
+ XXXX
+-->
+X    
+*X   
+X**X 
+XXXXX
+ XXXX
+-->
+X    
+XX   
+***X 
+*XXXX
+ XXXX
+-->
+*    
+*X   
+X**X 
+*XXXX
+ XXXX
+-->
+*    
+*X   
+XX*X 
+**XXX
+ *XXX
+-->
+*    
+*X   
+XX*X 
+**XXX
+ X**X
+-->
+*    
+*X   
+**XX 
+**XXX
+ X**X
+-->
+*    
+*X   
+***X 
+***XX
+ XX*X
+-->
+*    
+*X   
+***X 
+**X**
+ XX*X
+-->
+*    
+*X   
+***X 
+**X**
+ **XX
+-->
+*    
+*X   
+***X 
+**X**
+ *X**
+-->
+*    
+*X   
+**XX 
+*****
+ ****
+-->
+*    
+*X   
+*X** 
+*****
+ ****
+-->
+*    
+**   
+**** 
+*X***
+ ****
+solved
+
+found solution:
+   X 
+  XX 
+ XXXX
+ XXX*
+XXXXX
+-->
+   X 
+  XX 
+ XXXX
+ X**X
+XXXXX
+-->
+   X 
+  *X 
+ X*XX
+ XX*X
+XXXXX
+-->
+   X 
+  *X 
+ XX**
+ XX*X
+XXXXX
+-->
+   X 
+  XX 
+ X***
+ X**X
+XXXXX
+-->
+   * 
+  X* 
+ X*X*
+ X**X
+XXXXX
+-->
+   * 
+  X* 
+ X*XX
+ X***
+XXXX*
+-->
+   * 
+  X* 
+ XX**
+ X***
+XXXX*
+-->
+   * 
+  ** 
+ X***
+ XX**
+XXXX*
+-->
+   * 
+  ** 
+ X***
+ XX**
+XX**X
+-->
+   * 
+  ** 
+ X***
+ XX**
+**X*X
+-->
+   * 
+  ** 
+ ****
+ *X**
+*XX*X
+-->
+   * 
+  ** 
+ ****
+ *X**
+***XX
+-->
+   * 
+  ** 
+ ****
+ *X**
+**X**
+-->
+   * 
+  ** 
+ *X**
+ ****
+*****
+solved
+
+found solution:
+  XXX
+  XXX
+  XX*
+ XXXX
+  XXX
+-->
+  XXX
+  XXX
+  XXX
+ XXX*
+  XX*
+-->
+  XXX
+  XX*
+  XX*
+ XXXX
+  XX*
+-->
+  XXX
+  **X
+  XX*
+ XXXX
+  XX*
+-->
+  XXX
+  X*X
+  *X*
+ X*XX
+  XX*
+-->
+  XX*
+  X**
+  *XX
+ X*XX
+  XX*
+-->
+  **X
+  X**
+  *XX
+ X*XX
+  XX*
+-->
+  **X
+  X*X
+  *X*
+ X*X*
+  XX*
+-->
+  ***
+  X**
+  *XX
+ X*X*
+  XX*
+-->
+  ***
+  X**
+  X**
+ X*X*
+  XX*
+-->
+  ***
+  ***
+  ***
+ XXX*
+  XX*
+-->
+  ***
+  ***
+  *X*
+ XX**
+  X**
+-->
+  ***
+  ***
+  *X*
+ **X*
+  X**
+-->
+  ***
+  ***
+  ***
+ ****
+  XX*
+-->
+  ***
+  ***
+  ***
+ ****
+  **X
+solved
+
+found solution:
+     
+    X
+XXXX*
+XXXXX
+XXXXX
+-->
+     
+    X
+XXXXX
+XXXX*
+XXXX*
+-->
+     
+    *
+XXXX*
+XXXXX
+XXXX*
+-->
+     
+    *
+XX**X
+XXXXX
+XXXX*
+-->
+     
+    *
+**X*X
+XXXXX
+XXXX*
+-->
+     
+    *
+X*X*X
+*XXXX
+*XXX*
+-->
+     
+    *
+XXX*X
+**XXX
+**XX*
+-->
+     
+    *
+XXX*X
+*X**X
+**XX*
+-->
+     
+    *
+XXX*X
+*X**X
+*X***
+-->
+     
+    *
+X**XX
+*X**X
+*X***
+-->
+     
+    *
+XX*XX
+****X
+*****
+-->
+     
+    *
+**XXX
+****X
+*****
+-->
+     
+    X
+**XX*
+*****
+*****
+-->
+     
+    X
+****X
+*****
+*****
+-->
+     
+    *
+*****
+****X
+*****
+solved
+
+found solution:
+     
+ XX* 
+XXXX 
+XXXX 
+XXXXX
+-->
+     
+ **X 
+XXXX 
+XXXX 
+XXXXX
+-->
+     
+ *XX 
+XX*X 
+XX*X 
+XXXXX
+-->
+     
+ X** 
+XX*X 
+XX*X 
+XXXXX
+-->
+     
+ X** 
+**XX 
+XX*X 
+XXXXX
+-->
+     
+ X** 
+X*XX 
+*X*X 
+*XXXX
+-->
+     
+ X** 
+XX** 
+*X*X 
+*XXXX
+-->
+     
+ X** 
+**X* 
+*X*X 
+*XXXX
+-->
+     
+ X** 
+*XX* 
+***X 
+**XXX
+-->
+     
+ *** 
+**X* 
+*X*X 
+**XXX
+-->
+     
+ *** 
+**X* 
+*X*X 
+*X**X
+-->
+     
+ *** 
+*XX* 
+***X 
+****X
+-->
+     
+ *** 
+***X 
+***X 
+****X
+-->
+     
+ *** 
+**** 
+**** 
+***XX
+-->
+     
+ *** 
+**** 
+**** 
+**X**
+solved
+
+found solution:
+XXXXX
+XXXXX
+XX*X 
+X  X 
+     
+-->
+XXXXX
+XXXXX
+**XX 
+X  X 
+     
+-->
+*XXXX
+*XXXX
+X*XX 
+X  X 
+     
+-->
+X**XX
+*XXXX
+X*XX 
+X  X 
+     
+-->
+X**XX
+XXXXX
+**XX 
+*  X 
+     
+-->
+X**XX
+XXXXX
+*X** 
+*  X 
+     
+-->
+X*X**
+XXXXX
+*X** 
+*  X 
+     
+-->
+X****
+XX*XX
+*XX* 
+*  X 
+     
+-->
+X****
+**XXX
+*XX* 
+*  X 
+     
+-->
+X****
+*X**X
+*XX* 
+*  X 
+     
+-->
+X****
+*X**X
+***X 
+*  X 
+     
+-->
+X****
+*X*XX
+**** 
+*  * 
+     
+-->
+X****
+*XX**
+**** 
+*  * 
+     
+-->
+X****
+X****
+**** 
+*  * 
+     
+-->
+*****
+*****
+X*** 
+*  * 
+     
+solved
+
+found solution:
+     
+X    
+*XXXX
+XXXXX
+XXXXX
+-->
+     
+X    
+XXXXX
+*XXXX
+*XXXX
+-->
+     
+*    
+*XXXX
+XXXXX
+*XXXX
+-->
+     
+*    
+X**XX
+XXXXX
+*XXXX
+-->
+     
+X    
+***XX
+*XXXX
+*XXXX
+-->
+     
+X    
+*X*XX
+**XXX
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+*X**X
+-->
+     
+X    
+*XX**
+*X**X
+*X**X
+-->
+     
+X    
+***X*
+*X**X
+*X**X
+-->
+     
+X    
+*X*X*
+****X
+****X
+-->
+     
+X    
+*X*XX
+*****
+*****
+-->
+     
+X    
+*XX**
+*****
+*****
+-->
+     
+X    
+X****
+*****
+*****
+-->
+     
+*    
+*****
+X****
+*****
+solved
+
+found solution:
+   XX
+ XXXX
+ *XXX
+ XXXX
+   XX
+-->
+   XX
+ XXXX
+ X**X
+ XXXX
+   XX
+-->
+   XX
+ XXXX
+ X*XX
+ XX*X
+   *X
+-->
+   XX
+ XXXX
+ XX**
+ XX*X
+   *X
+-->
+   XX
+ XXXX
+ **X*
+ XX*X
+   *X
+-->
+   XX
+ XXXX
+ **X*
+ **XX
+   *X
+-->
+   XX
+ XXXX
+ **X*
+ *X**
+   *X
+-->
+   X*
+ XXX*
+ **XX
+ *X**
+   *X
+-->
+   X*
+ X**X
+ **XX
+ *X**
+   *X
+-->
+   X*
+ X***
+ **X*
+ *X*X
+   *X
+-->
+   X*
+ X***
+ **XX
+ *X**
+   **
+-->
+   X*
+ X***
+ *X**
+ *X**
+   **
+-->
+   X*
+ XX**
+ ****
+ ****
+   **
+-->
+   X*
+ **X*
+ ****
+ ****
+   **
+-->
+   **
+ ****
+ **X*
+ ****
+   **
+solved
+
+found solution:
+  X  
+XXX  
+XXXXX
+* XXX
+  XXX
+-->
+  X  
+*XX  
+*XXXX
+X XXX
+  XXX
+-->
+  X  
+*XX  
+X**XX
+X XXX
+  XXX
+-->
+  X  
+XXX  
+***XX
+* XXX
+  XXX
+-->
+  X  
+XXX  
+**X**
+* XXX
+  XXX
+-->
+  X  
+XXX  
+**XX*
+* X*X
+  X*X
+-->
+  X  
+XXX  
+*X***
+* X*X
+  X*X
+-->
+  X  
+XXX  
+*XX**
+* **X
+  **X
+-->
+  X  
+XX*  
+*X***
+* X*X
+  **X
+-->
+  X  
+**X  
+*X***
+* X*X
+  **X
+-->
+  *  
+***  
+*XX**
+* X*X
+  **X
+-->
+  *  
+***  
+***X*
+* X*X
+  **X
+-->
+  *  
+***  
+***XX
+* X**
+  ***
+-->
+  *  
+***  
+**X**
+* X**
+  ***
+-->
+  *  
+**X  
+*****
+* ***
+  ***
+solved
+
+found solution:
+     
+  X X
+XXXXX
+XXXXX
+X*XX 
+-->
+     
+  X X
+XXXXX
+XXXXX
+XX** 
+-->
+     
+  X X
+XX*XX
+XX*XX
+XXX* 
+-->
+     
+  X X
+**XXX
+XX*XX
+XXX* 
+-->
+     
+  X X
+X*XXX
+*X*XX
+*XX* 
+-->
+     
+  X X
+XX**X
+*X*XX
+*XX* 
+-->
+     
+  X X
+**X*X
+*X*XX
+*XX* 
+-->
+     
+  X X
+**X*X
+*XX**
+*XX* 
+-->
+     
+  X X
+**X*X
+***X*
+*XX* 
+-->
+     
+  * X
+****X
+**XX*
+*XX* 
+-->
+     
+  * X
+**X*X
+***X*
+*X** 
+-->
+     
+  * *
+**X**
+***XX
+*X** 
+-->
+     
+  * *
+**X**
+**X**
+*X** 
+-->
+     
+  * *
+*****
+*****
+*XX* 
+-->
+     
+  * *
+*****
+*****
+X*** 
+solved
+
+found solution:
+     
+ X* X
+XXXXX
+ XXXX
+ XXXX
+-->
+     
+ XX X
+XX*XX
+ X*XX
+ XXXX
+-->
+     
+ XX X
+XXX**
+ X*XX
+ XXXX
+-->
+     
+ X* X
+XX***
+ XXXX
+ XXXX
+-->
+     
+ X* X
+**X**
+ XXXX
+ XXXX
+-->
+     
+ X* X
+*XX**
+ *XXX
+ *XXX
+-->
+     
+ ** X
+**X**
+ XXXX
+ *XXX
+-->
+     
+ ** X
+**X**
+ XXXX
+ X**X
+-->
+     
+ ** X
+*XX**
+ *XXX
+ ***X
+-->
+     
+ ** X
+*X***
+ **XX
+ *X*X
+-->
+     
+ ** X
+*X**X
+ **X*
+ *X**
+-->
+     
+ ** *
+*X***
+ **XX
+ *X**
+-->
+     
+ ** *
+*X***
+ *X**
+ *X**
+-->
+     
+ ** *
+*XX**
+ ****
+ ****
+-->
+     
+ ** *
+X****
+ ****
+ ****
+solved
+
+found solution:
+   X 
+  XXX
+  XX*
+ XXXX
+XXXXX
+-->
+   X 
+  XXX
+  **X
+ XXXX
+XXXXX
+-->
+   X 
+  XXX
+  X*X
+ X*XX
+XX*XX
+-->
+   X 
+  XXX
+  X*X
+ XX**
+XX*XX
+-->
+   X 
+  XXX
+  X*X
+ XX**
+**XXX
+-->
+   X 
+  XXX
+  X*X
+ XX**
+*X**X
+-->
+   X 
+  XXX
+  **X
+ X***
+*XX*X
+-->
+   * 
+  X*X
+  *XX
+ X***
+*XX*X
+-->
+   * 
+  X*X
+  *XX
+ X***
+***XX
+-->
+   * 
+  X**
+  *X*
+ X**X
+***XX
+-->
+   * 
+  X**
+  *XX
+ X***
+***X*
+-->
+   * 
+  X**
+  X**
+ X***
+***X*
+-->
+   * 
+  ***
+  ***
+ XX**
+***X*
+-->
+   * 
+  ***
+  ***
+ **X*
+***X*
+-->
+   * 
+  ***
+  *X*
+ ****
+*****
+solved
+
+found solution:
+     
+X    
+*XXXX
+XXXXX
+XXXXX
+-->
+     
+X    
+XXXXX
+*XXXX
+*XXXX
+-->
+     
+*    
+*XXXX
+XXXXX
+*XXXX
+-->
+     
+*    
+X**XX
+XXXXX
+*XXXX
+-->
+     
+X    
+***XX
+*XXXX
+*XXXX
+-->
+     
+X    
+*X*XX
+**XXX
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+*X**X
+-->
+     
+X    
+*XX**
+*X**X
+*X**X
+-->
+     
+X    
+***X*
+*X**X
+*X**X
+-->
+     
+X    
+*X*X*
+****X
+****X
+-->
+     
+X    
+*X*XX
+*****
+*****
+-->
+     
+X    
+*XX**
+*****
+*****
+-->
+     
+X    
+X****
+*****
+*****
+-->
+     
+*    
+*****
+X****
+*****
+solved
+
+found solution:
+  X  
+ X*XX
+ XXXX
+XXXXX
+   XX
+-->
+  X  
+ XX**
+ XXXX
+XXXXX
+   XX
+-->
+  X  
+ **X*
+ XXXX
+XXXXX
+   XX
+-->
+  X  
+ X*X*
+ *XXX
+X*XXX
+   XX
+-->
+  X  
+ X*X*
+ X**X
+X*XXX
+   XX
+-->
+  X  
+ **X*
+ ***X
+XXXXX
+   XX
+-->
+  X  
+ **X*
+ **XX
+XXX*X
+   *X
+-->
+  X  
+ **X*
+ *X**
+XXX*X
+   *X
+-->
+  X  
+ *XX*
+ ****
+XX**X
+   *X
+-->
+  *  
+ **X*
+ *X**
+XX**X
+   *X
+-->
+  *  
+ **X*
+ *X**
+**X*X
+   *X
+-->
+  *  
+ *XX*
+ ****
+****X
+   *X
+-->
+  *  
+ ***X
+ ****
+****X
+   *X
+-->
+  *  
+ ***X
+ ***X
+*****
+   **
+-->
+  *  
+ ****
+ ****
+****X
+   **
+solved
+
+found solution:
+  X  
+XX*  
+XXX  
+XXXXX
+XXXX 
+-->
+  X  
+**X  
+XXX  
+XXXXX
+XXXX 
+-->
+  X  
+X*X  
+*XX  
+*XXXX
+XXXX 
+-->
+  X  
+X*X  
+X**  
+*XXXX
+XXXX 
+-->
+  X  
+**X  
+***  
+XXXXX
+XXXX 
+-->
+  X  
+**X  
+X**  
+*XXXX
+*XXX 
+-->
+  X  
+**X  
+XX*  
+**XXX
+**XX 
+-->
+  X  
+**X  
+XX*  
+**XXX
+*X** 
+-->
+  X  
+**X  
+**X  
+**XXX
+*X** 
+-->
+  X  
+**X  
+***  
+***XX
+*XX* 
+-->
+  *  
+***  
+**X  
+***XX
+*XX* 
+-->
+  *  
+***  
+**X  
+**X**
+*XX* 
+-->
+  *  
+***  
+**X  
+**X**
+***X 
+-->
+  *  
+***  
+***  
+*****
+**XX 
+-->
+  *  
+***  
+***  
+*****
+*X** 
+solved
+
+found solution:
+ X   
+ X X 
+ XX* 
+XXXXX
+XXXXX
+-->
+ X   
+ X X 
+ **X 
+XXXXX
+XXXXX
+-->
+ *   
+ * X 
+ X*X 
+XXXXX
+XXXXX
+-->
+ *   
+ * X 
+ XXX 
+XX*XX
+XX*XX
+-->
+ *   
+ * X 
+ XXX 
+XXX**
+XX*XX
+-->
+ *   
+ * X 
+ XXX 
+XXX**
+XXX**
+-->
+ *   
+ * * 
+ XX* 
+XXXX*
+XXX**
+-->
+ *   
+ * * 
+ **X 
+XXXX*
+XXX**
+-->
+ *   
+ * * 
+ *XX 
+XX*X*
+XX***
+-->
+ *   
+ * * 
+ X** 
+XX*X*
+XX***
+-->
+ *   
+ * * 
+ X** 
+**XX*
+XX***
+-->
+ *   
+ * * 
+ X** 
+*X***
+XX***
+-->
+ *   
+ * * 
+ X** 
+*X***
+**X**
+-->
+ *   
+ * * 
+ *** 
+*****
+*XX**
+-->
+ *   
+ * * 
+ *** 
+*****
+X****
+solved
+
+found solution:
+  X  
+ XXX 
+ *XX 
+XXXX 
+XXXXX
+-->
+  X  
+ XXX 
+ X** 
+XXXX 
+XXXXX
+-->
+  *  
+ X*X 
+ XX* 
+XXXX 
+XXXXX
+-->
+  *  
+ X*X 
+ XXX 
+XXX* 
+XXX*X
+-->
+  *  
+ X** 
+ XX* 
+XXXX 
+XXX*X
+-->
+  *  
+ X** 
+ **X 
+XXXX 
+XXX*X
+-->
+  *  
+ X** 
+ **X 
+XXXX 
+X**XX
+-->
+  *  
+ X** 
+ **X 
+XXXX 
+X*X**
+-->
+  *  
+ X** 
+ *** 
+XXX* 
+X*XX*
+-->
+  *  
+ X** 
+ *** 
+XXX* 
+XX***
+-->
+  *  
+ X** 
+ *** 
+XXX* 
+**X**
+-->
+  *  
+ X** 
+ *X* 
+XX** 
+*****
+-->
+  *  
+ X** 
+ *X* 
+**X* 
+*****
+-->
+  *  
+ XX* 
+ *** 
+**** 
+*****
+-->
+  *  
+ **X 
+ *** 
+**** 
+*****
+solved
+
+found solution:
+XXXX 
+XXX  
+XXXX 
+XXXX 
+  *  
+-->
+XXXX 
+XXX  
+XX*X 
+XX*X 
+  X  
+-->
+XXXX 
+XXX  
+**XX 
+XX*X 
+  X  
+-->
+*XXX 
+*XX  
+X*XX 
+XX*X 
+  X  
+-->
+*XXX 
+*XX  
+XX** 
+XX*X 
+  X  
+-->
+*XXX 
+*XX  
+**X* 
+XX*X 
+  X  
+-->
+**XX 
+**X  
+*XX* 
+XX*X 
+  X  
+-->
+*X** 
+**X  
+*XX* 
+XX*X 
+  X  
+-->
+*X** 
+*XX  
+**X* 
+X**X 
+  X  
+-->
+**** 
+**X  
+*XX* 
+X**X 
+  X  
+-->
+**** 
+***  
+*X** 
+X*XX 
+  X  
+-->
+**** 
+***  
+*X** 
+XX** 
+  X  
+-->
+**** 
+***  
+*X** 
+**X* 
+  X  
+-->
+**** 
+***  
+*XX* 
+**** 
+  *  
+-->
+**** 
+***  
+X*** 
+**** 
+  *  
+solved
+
+found solution:
+X  X 
+XX X 
+XXXX 
+XXXX 
+  XX*
+-->
+X  X 
+XX X 
+XXXX 
+XXXX 
+  **X
+-->
+X  X 
+XX X 
+XXX* 
+XXX* 
+  *XX
+-->
+X  X 
+XX X 
+XXX* 
+XXX* 
+  X**
+-->
+X  X 
+XX X 
+X**X 
+XXX* 
+  X**
+-->
+X  X 
+XX X 
+X*XX 
+XX** 
+  ***
+-->
+X  X 
+XX X 
+XX** 
+XX** 
+  ***
+-->
+X  X 
+XX X 
+**X* 
+XX** 
+  ***
+-->
+*  X 
+*X X 
+X*X* 
+XX** 
+  ***
+-->
+*  X 
+*X X 
+X*X* 
+**X* 
+  ***
+-->
+*  * 
+*X * 
+X*XX 
+**X* 
+  ***
+-->
+*  * 
+*X * 
+XX** 
+**X* 
+  ***
+-->
+*  * 
+** * 
+X*** 
+*XX* 
+  ***
+-->
+*  * 
+** * 
+X*** 
+X*** 
+  ***
+-->
+*  * 
+X* * 
+**** 
+**** 
+  ***
+solved
+
+found solution:
+     
+    X
+XXXX*
+XXXXX
+XXXXX
+-->
+     
+    X
+XXXXX
+XXXX*
+XXXX*
+-->
+     
+    *
+XXXX*
+XXXXX
+XXXX*
+-->
+     
+    *
+XX**X
+XXXXX
+XXXX*
+-->
+     
+    *
+**X*X
+XXXXX
+XXXX*
+-->
+     
+    *
+X*X*X
+*XXXX
+*XXX*
+-->
+     
+    *
+XXX*X
+**XXX
+**XX*
+-->
+     
+    *
+XXX*X
+*X**X
+**XX*
+-->
+     
+    *
+XXX*X
+*X**X
+*X***
+-->
+     
+    *
+X**XX
+*X**X
+*X***
+-->
+     
+    *
+XX*XX
+****X
+*****
+-->
+     
+    *
+**XXX
+****X
+*****
+-->
+     
+    X
+**XX*
+*****
+*****
+-->
+     
+    X
+****X
+*****
+*****
+-->
+     
+    *
+*****
+****X
+*****
+solved
+
+found solution:
+     
+X X  
+XX* X
+XXXXX
+XXXXX
+-->
+     
+X X  
+XXX X
+XX*XX
+XX*XX
+-->
+     
+X *  
+XX* X
+XXXXX
+XX*XX
+-->
+     
+X *  
+**X X
+XXXXX
+XX*XX
+-->
+     
+X *  
+X*X X
+*XXXX
+*X*XX
+-->
+     
+* *  
+**X X
+XXXXX
+*X*XX
+-->
+     
+* X  
+*** X
+XX*XX
+*X*XX
+-->
+     
+* X  
+*** X
+**XXX
+*X*XX
+-->
+     
+* X  
+*** X
+**XXX
+*XX**
+-->
+     
+* X  
+*** X
+**XXX
+***X*
+-->
+     
+* X  
+*** *
+**XX*
+***XX
+-->
+     
+* X  
+*** *
+**XX*
+**X**
+-->
+     
+* X  
+**X *
+***X*
+*****
+-->
+     
+* *  
+*** *
+**XX*
+*****
+-->
+     
+* *  
+*** *
+*X***
+*****
+solved
+
+found solution:
+ XXXX
+XXXXX
+XXXXX
+ X*  
+     
+-->
+ XXXX
+XX*XX
+XX*XX
+ XX  
+     
+-->
+ XXXX
+XXX**
+XX*XX
+ XX  
+     
+-->
+ XXXX
+XXX**
+XXX**
+ XX  
+     
+-->
+ XXXX
+X**X*
+XXX**
+ XX  
+     
+-->
+ XXXX
+XX*X*
+X*X**
+ *X  
+     
+-->
+ *XXX
+X**X*
+XXX**
+ *X  
+     
+-->
+ X**X
+X**X*
+XXX**
+ *X  
+     
+-->
+ X**X
+X*XX*
+XX***
+ **  
+     
+-->
+ X**X
+XX***
+XX***
+ **  
+     
+-->
+ X**X
+**X**
+XX***
+ **  
+     
+-->
+ X**X
+**X**
+**X**
+ **  
+     
+-->
+ XX*X
+*****
+*****
+ **  
+     
+-->
+ **XX
+*****
+*****
+ **  
+     
+-->
+ *X**
+*****
+*****
+ **  
+     
+solved
+
+found solution:
+XXXX 
+XXXXX
+XXX*X
+XX   
+     
+-->
+XXXX 
+XXXXX
+X**XX
+XX   
+     
+-->
+X*XX 
+X*XXX
+XX*XX
+XX   
+     
+-->
+XX** 
+X*XXX
+XX*XX
+XX   
+     
+-->
+**X* 
+X*XXX
+XX*XX
+XX   
+     
+-->
+X*X* 
+**XXX
+*X*XX
+XX   
+     
+-->
+X*X* 
+**XXX
+*XX**
+XX   
+     
+-->
+X*X* 
+**XXX
+***X*
+XX   
+     
+-->
+X*** 
+***XX
+**XX*
+XX   
+     
+-->
+X*** 
+***XX
+*X***
+XX   
+     
+-->
+X*** 
+*X*XX
+*****
+X*   
+     
+-->
+X*** 
+*XX**
+*****
+X*   
+     
+-->
+X*** 
+X****
+*****
+X*   
+     
+-->
+**** 
+*****
+X****
+X*   
+     
+-->
+**** 
+X****
+*****
+**   
+     
+solved
+
+found solution:
+ X   
+XXXX*
+XXXX 
+XXX  
+XXX  
+-->
+ X   
+XX**X
+XXXX 
+XXX  
+XXX  
+-->
+ X   
+XXX*X
+XX*X 
+XX*  
+XXX  
+-->
+ X   
+XXX*X
+**XX 
+XX*  
+XXX  
+-->
+ X   
+XXX*X
+X*XX 
+*X*  
+*XX  
+-->
+ X   
+*XX*X
+**XX 
+XX*  
+*XX  
+-->
+ X   
+*XX*X
+**XX 
+XX*  
+X**  
+-->
+ X   
+*XX*X
+X*XX 
+*X*  
+***  
+-->
+ X   
+*XX*X
+XX** 
+*X*  
+***  
+-->
+ X   
+*XX*X
+**X* 
+*X*  
+***  
+-->
+ *   
+**X*X
+*XX* 
+*X*  
+***  
+-->
+ *   
+*XX*X
+**X* 
+***  
+***  
+-->
+ *   
+***XX
+**X* 
+***  
+***  
+-->
+ *   
+**X**
+**X* 
+***  
+***  
+-->
+ *   
+*****
+**** 
+**X  
+***  
+solved
+
+found solution:
+   X 
+   XX
+  XX*
+XXXXX
+XXXXX
+-->
+   X 
+   XX
+  **X
+XXXXX
+XXXXX
+-->
+   X 
+   XX
+  X*X
+XX*XX
+XX*XX
+-->
+   X 
+   XX
+  X*X
+XXX**
+XX*XX
+-->
+   X 
+   XX
+  X*X
+XXX**
+XXX**
+-->
+   * 
+   *X
+  XXX
+XXX**
+XXX**
+-->
+   * 
+   *X
+  XXX
+XXX**
+X**X*
+-->
+   * 
+   *X
+  *XX
+XX***
+X*XX*
+-->
+   * 
+   *X
+  *XX
+XX***
+XX***
+-->
+   * 
+   *X
+  *XX
+**X**
+XX***
+-->
+   * 
+   *X
+  *XX
+**X**
+**X**
+-->
+   * 
+   *X
+  XXX
+*****
+*****
+-->
+   * 
+   **
+  XX*
+****X
+*****
+-->
+   * 
+   **
+  **X
+****X
+*****
+-->
+   * 
+   *X
+  ***
+*****
+*****
+solved
+
+found solution:
+ XXXX
+ XXXX
+ XXXX
+ X  X
+ *  X
+-->
+ XXXX
+ XXXX
+ *XXX
+ *  X
+ X  X
+-->
+ XXXX
+ XXXX
+ X**X
+ *  X
+ X  X
+-->
+ XXXX
+ *XXX
+ ***X
+ X  X
+ X  X
+-->
+ XXXX
+ *XXX
+ X**X
+ *  X
+ *  X
+-->
+ X*XX
+ **XX
+ XX*X
+ *  X
+ *  X
+-->
+ XX**
+ **XX
+ XX*X
+ *  X
+ *  X
+-->
+ **X*
+ **XX
+ XX*X
+ *  X
+ *  X
+-->
+ **X*
+ **XX
+ **XX
+ *  X
+ *  X
+-->
+ **X*
+ **XX
+ *X**
+ *  X
+ *  X
+-->
+ ****
+ ***X
+ *XX*
+ *  X
+ *  X
+-->
+ ****
+ ***X
+ *XXX
+ *  *
+ *  *
+-->
+ ****
+ ****
+ *XX*
+ *  X
+ *  *
+-->
+ ****
+ ****
+ ***X
+ *  X
+ *  *
+-->
+ ****
+ ***X
+ ****
+ *  *
+ *  *
+solved
+
+found solution:
+ XXXX
+ XXXX
+  *XX
+  X X
+  XXX
+-->
+ X*XX
+ X*XX
+  XXX
+  X X
+  XXX
+-->
+ XX**
+ X*XX
+  XXX
+  X X
+  XXX
+-->
+ XX**
+ XXXX
+  *XX
+  * X
+  XXX
+-->
+ XX**
+ XXXX
+  X**
+  * X
+  XXX
+-->
+ XX**
+ X*XX
+  ***
+  X X
+  XXX
+-->
+ **X*
+ X*XX
+  ***
+  X X
+  XXX
+-->
+ ****
+ X**X
+  *X*
+  X X
+  XXX
+-->
+ ****
+ X**X
+  *XX
+  X *
+  XX*
+-->
+ ****
+ X***
+  *X*
+  X X
+  XX*
+-->
+ ****
+ X***
+  *X*
+  X X
+  **X
+-->
+ ****
+ X***
+  *XX
+  X *
+  ***
+-->
+ ****
+ X***
+  X**
+  X *
+  ***
+-->
+ ****
+ XX**
+  ***
+  * *
+  ***
+-->
+ ****
+ **X*
+  ***
+  * *
+  ***
+solved
+
+found solution:
+ X   
+ *XX 
+ XXXX
+ XXXX
+ XXXX
+-->
+ X   
+ X** 
+ XXXX
+ XXXX
+ XXXX
+-->
+ X   
+ XX* 
+ X*XX
+ X*XX
+ XXXX
+-->
+ X   
+ XX* 
+ XX**
+ X*XX
+ XXXX
+-->
+ X   
+ XX* 
+ XX**
+ XX**
+ XXXX
+-->
+ X   
+ **X 
+ XX**
+ XX**
+ XXXX
+-->
+ X   
+ X*X 
+ *X**
+ *X**
+ XXXX
+-->
+ *   
+ **X 
+ XX**
+ *X**
+ XXXX
+-->
+ *   
+ **X 
+ **X*
+ *X**
+ XXXX
+-->
+ *   
+ **X 
+ *XX*
+ ****
+ X*XX
+-->
+ *   
+ **X 
+ *XX*
+ ****
+ XX**
+-->
+ *   
+ *** 
+ *X**
+ **X*
+ XX**
+-->
+ *   
+ *** 
+ *X**
+ **X*
+ **X*
+-->
+ *   
+ *** 
+ *XX*
+ ****
+ ****
+-->
+ *   
+ *** 
+ X***
+ ****
+ ****
+solved
+
+found solution:
+     
+  X  
+XXXXX
+XX*XX
+XXXXX
+-->
+     
+  X  
+XXXXX
+XXX**
+XXXXX
+-->
+     
+  X  
+XXXXX
+X**X*
+XXXXX
+-->
+     
+  *  
+XX*XX
+X*XX*
+XXXXX
+-->
+     
+  *  
+XXX**
+X*XX*
+XXXXX
+-->
+     
+  X  
+XX***
+X**X*
+XXXXX
+-->
+     
+  X  
+**X**
+X**X*
+XXXXX
+-->
+     
+  X  
+X*X**
+***X*
+*XXXX
+-->
+     
+  *  
+X****
+**XX*
+*XXXX
+-->
+     
+  *  
+X*X**
+***X*
+*X*XX
+-->
+     
+  *  
+X*X**
+***X*
+*XX**
+-->
+     
+  *  
+X*X**
+***X*
+***X*
+-->
+     
+  *  
+X*XX*
+*****
+*****
+-->
+     
+  *  
+XX***
+*****
+*****
+-->
+     
+  *  
+**X**
+*****
+*****
+solved
+
+found solution:
+     
+X    
+*XXXX
+XXXXX
+XXXXX
+-->
+     
+X    
+XXXXX
+*XXXX
+*XXXX
+-->
+     
+*    
+*XXXX
+XXXXX
+*XXXX
+-->
+     
+*    
+X**XX
+XXXXX
+*XXXX
+-->
+     
+X    
+***XX
+*XXXX
+*XXXX
+-->
+     
+X    
+*X*XX
+**XXX
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+*X**X
+-->
+     
+X    
+*XX**
+*X**X
+*X**X
+-->
+     
+X    
+***X*
+*X**X
+*X**X
+-->
+     
+X    
+*X*X*
+****X
+****X
+-->
+     
+X    
+*X*XX
+*****
+*****
+-->
+     
+X    
+*XX**
+*****
+*****
+-->
+     
+X    
+X****
+*****
+*****
+-->
+     
+*    
+*****
+X****
+*****
+solved
+
+found solution:
+     
+X    
+*XXXX
+XXXXX
+XXXXX
+-->
+     
+X    
+XXXXX
+*XXXX
+*XXXX
+-->
+     
+*    
+*XXXX
+XXXXX
+*XXXX
+-->
+     
+*    
+X**XX
+XXXXX
+*XXXX
+-->
+     
+X    
+***XX
+*XXXX
+*XXXX
+-->
+     
+X    
+*X*XX
+**XXX
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+*X**X
+-->
+     
+X    
+*XX**
+*X**X
+*X**X
+-->
+     
+X    
+***X*
+*X**X
+*X**X
+-->
+     
+X    
+*X*X*
+****X
+****X
+-->
+     
+X    
+*X*XX
+*****
+*****
+-->
+     
+X    
+*XX**
+*****
+*****
+-->
+     
+X    
+X****
+*****
+*****
+-->
+     
+*    
+*****
+X****
+*****
+solved
+
+found solution:
+     
+X    
+*XXXX
+XXXXX
+XXXXX
+-->
+     
+X    
+XXXXX
+*XXXX
+*XXXX
+-->
+     
+*    
+*XXXX
+XXXXX
+*XXXX
+-->
+     
+*    
+X**XX
+XXXXX
+*XXXX
+-->
+     
+X    
+***XX
+*XXXX
+*XXXX
+-->
+     
+X    
+*X*XX
+**XXX
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+*X**X
+-->
+     
+X    
+*XX**
+*X**X
+*X**X
+-->
+     
+X    
+***X*
+*X**X
+*X**X
+-->
+     
+X    
+*X*X*
+****X
+****X
+-->
+     
+X    
+*X*XX
+*****
+*****
+-->
+     
+X    
+*XX**
+*****
+*****
+-->
+     
+X    
+X****
+*****
+*****
+-->
+     
+*    
+*****
+X****
+*****
+solved
+
+found solution:
+ XXX 
+ XXX 
+XX*XX
+  XX 
+  XXX
+-->
+ XXX 
+ XXX 
+XXX**
+  XX 
+  XXX
+-->
+ XXX 
+ XXX 
+X**X*
+  XX 
+  XXX
+-->
+ *XX 
+ *XX 
+XX*X*
+  XX 
+  XXX
+-->
+ *XX 
+ *XX 
+**XX*
+  XX 
+  XXX
+-->
+ *XX 
+ *XX 
+*X***
+  XX 
+  XXX
+-->
+ *XX 
+ *XX 
+*XX**
+  *X 
+  *XX
+-->
+ *XX 
+ **X 
+*X***
+  XX 
+  *XX
+-->
+ *XX 
+ **X 
+*X***
+  XX 
+  X**
+-->
+ *XX 
+ **X 
+*XX**
+  *X 
+  ***
+-->
+ *X* 
+ *** 
+*XXX*
+  *X 
+  ***
+-->
+ *X* 
+ **X 
+*XX**
+  ** 
+  ***
+-->
+ *X* 
+ **X 
+***X*
+  ** 
+  ***
+-->
+ *XX 
+ *** 
+*****
+  ** 
+  ***
+-->
+ X** 
+ *** 
+*****
+  ** 
+  ***
+solved
+
+found solution:
+     
+XXXX 
+XXX* 
+XXXXX
+XX X 
+-->
+     
+XXXX 
+XXXX 
+XXX*X
+XX * 
+-->
+     
+XXXX 
+XXXX 
+X**XX
+XX * 
+-->
+     
+X*XX 
+X*XX 
+XX*XX
+XX * 
+-->
+     
+XX** 
+X*XX 
+XX*XX
+XX * 
+-->
+     
+XX** 
+XX** 
+XX*XX
+XX * 
+-->
+     
+**X* 
+XX** 
+XX*XX
+XX * 
+-->
+     
+**X* 
+**X* 
+XX*XX
+XX * 
+-->
+     
+**X* 
+X*X* 
+*X*XX
+*X * 
+-->
+     
+**X* 
+X*X* 
+*XX**
+*X * 
+-->
+     
+**X* 
+X*X* 
+***X*
+*X * 
+-->
+     
+**** 
+X*** 
+**XX*
+*X * 
+-->
+     
+**** 
+X*** 
+*X***
+*X * 
+-->
+     
+**** 
+XX** 
+*****
+** * 
+-->
+     
+**** 
+**X* 
+*****
+** * 
+solved
+
+found solution:
+XXXXX
+XXXXX
+XXXX*
+    X
+     
+-->
+XXXX*
+XXXX*
+XXXXX
+    X
+     
+-->
+XXXX*
+XXXXX
+XXXX*
+    *
+     
+-->
+XXXX*
+XXXXX
+XX**X
+    *
+     
+-->
+XXXX*
+XXXXX
+**X*X
+    *
+     
+-->
+*XXX*
+*XXXX
+X*X*X
+    *
+     
+-->
+**XX*
+**XXX
+XXX*X
+    *
+     
+-->
+*X***
+**XXX
+XXX*X
+    *
+     
+-->
+*X***
+*X**X
+XXX*X
+    *
+     
+-->
+*X***
+*X**X
+X**XX
+    *
+     
+-->
+*****
+****X
+XX*XX
+    *
+     
+-->
+*****
+****X
+**XXX
+    *
+     
+-->
+*****
+*****
+**XX*
+    X
+     
+-->
+*****
+*****
+****X
+    X
+     
+-->
+*****
+****X
+*****
+    *
+     
+solved
+
+found solution:
+     
+   XX
+*XXXX
+ XXXX
+XXXXX
+-->
+     
+   XX
+X**XX
+ XXXX
+XXXXX
+-->
+     
+   XX
+XX*XX
+ *XXX
+X*XXX
+-->
+     
+   XX
+XX*XX
+ *XXX
+XX**X
+-->
+     
+   XX
+**XXX
+ *XXX
+XX**X
+-->
+     
+   XX
+*X**X
+ *XXX
+XX**X
+-->
+     
+   XX
+*X**X
+ *XXX
+**X*X
+-->
+     
+   XX
+*XX*X
+ **XX
+****X
+-->
+     
+   XX
+*XX*X
+ *X**
+****X
+-->
+     
+   XX
+***XX
+ *X**
+****X
+-->
+     
+   *X
+****X
+ *XX*
+****X
+-->
+     
+   **
+*****
+ *XXX
+****X
+-->
+     
+   **
+****X
+ *XX*
+*****
+-->
+     
+   **
+****X
+ ***X
+*****
+-->
+     
+   *X
+*****
+ ****
+*****
+solved
+
+found solution:
+  X  
+XXXXX
+  XXX
+  XXX
+ *XXX
+-->
+  X  
+XXXXX
+  XXX
+  XXX
+ X**X
+-->
+  X  
+XXXXX
+  *XX
+  *XX
+ XX*X
+-->
+  X  
+XXXXX
+  X**
+  *XX
+ XX*X
+-->
+  X  
+XXXXX
+  X**
+  X**
+ XX*X
+-->
+  X  
+XXXXX
+  X**
+  X**
+ **XX
+-->
+  X  
+XXXXX
+  ***
+  ***
+ *XXX
+-->
+  *  
+XX*XX
+  X**
+  ***
+ *XXX
+-->
+  *  
+XXX**
+  X**
+  ***
+ *XXX
+-->
+  *  
+XX***
+  ***
+  X**
+ *XXX
+-->
+  *  
+**X**
+  ***
+  X**
+ *XXX
+-->
+  *  
+**X**
+  X**
+  ***
+ **XX
+-->
+  *  
+*****
+  ***
+  X**
+ **XX
+-->
+  *  
+*****
+  ***
+  X**
+ *X**
+-->
+  *  
+*****
+  X**
+  ***
+ ****
+solved
+
+found solution:
+     
+XXX  
+X*X  
+XXXXX
+XXXXX
+-->
+     
+XXX  
+XXX  
+X*XXX
+X*XXX
+-->
+     
+XXX  
+XXX  
+XX**X
+X*XXX
+-->
+     
+XX*  
+XX*  
+XXX*X
+X*XXX
+-->
+     
+**X  
+XX*  
+XXX*X
+X*XXX
+-->
+     
+X*X  
+*X*  
+*XX*X
+X*XXX
+-->
+     
+X*X  
+*XX  
+*X**X
+X**XX
+-->
+     
+X**  
+*X*  
+*XX*X
+X**XX
+-->
+     
+X**  
+*X*  
+*XX*X
+X*X**
+-->
+     
+X**  
+*X*  
+***XX
+X*X**
+-->
+     
+X**  
+*X*  
+**X**
+X*X**
+-->
+     
+X**  
+*XX  
+*****
+X****
+-->
+     
+X**  
+X**  
+*****
+X****
+-->
+     
+***  
+***  
+X****
+X****
+-->
+     
+***  
+X**  
+*****
+*****
+solved
+
+found solution:
+XXX  
+XXXXX
+* X  
+XXX  
+XXX  
+-->
+XXX  
+XXXXX
+X X  
+*XX  
+*XX  
+-->
+XXX  
+*XXXX
+* X  
+XXX  
+*XX  
+-->
+XXX  
+X**XX
+* X  
+XXX  
+*XX  
+-->
+*XX  
+***XX
+X X  
+XXX  
+*XX  
+-->
+*XX  
+X**XX
+* X  
+*XX  
+*XX  
+-->
+*XX  
+X**XX
+* X  
+*XX  
+X**  
+-->
+*XX  
+X*XXX
+* *  
+*X*  
+X**  
+-->
+*X*  
+X**XX
+* X  
+*X*  
+X**  
+-->
+*X*  
+X*X**
+* X  
+*X*  
+X**  
+-->
+*X*  
+X****
+* *  
+*XX  
+X**  
+-->
+*X*  
+X****
+* *  
+X**  
+X**  
+-->
+*X*  
+X****
+X *  
+***  
+***  
+-->
+XX*  
+*****
+* *  
+***  
+***  
+-->
+**X  
+*****
+* *  
+***  
+***  
+solved
+
+found solution:
+XXXX 
+XXXXX
+XXXXX
+X   *
+     
+-->
+XXXX 
+XXXX*
+XXXX*
+X   X
+     
+-->
+XXXX 
+XXXX*
+XX**X
+X   X
+     
+-->
+XXXX 
+XXXX*
+**X*X
+X   X
+     
+-->
+*XXX 
+*XXX*
+X*X*X
+X   X
+     
+-->
+X**X 
+*XXX*
+X*X*X
+X   X
+     
+-->
+X**X 
+XXXX*
+**X*X
+*   X
+     
+-->
+***X 
+*XXX*
+X*X*X
+*   X
+     
+-->
+***X 
+X**X*
+X*X*X
+*   X
+     
+-->
+X**X 
+***X*
+**X*X
+*   X
+     
+-->
+X**X 
+***XX
+**X**
+*   *
+     
+-->
+X**X 
+**X**
+**X**
+*   *
+     
+-->
+X*XX 
+*****
+*****
+*   *
+     
+-->
+XX** 
+*****
+*****
+*   *
+     
+-->
+**X* 
+*****
+*****
+*   *
+     
+solved
+
+found solution:
+   X 
+  XX 
+  XXX
+XXXX*
+XXXXX
+-->
+   X 
+  XX 
+  XXX
+XX**X
+XXXXX
+-->
+   X 
+  *X 
+  *XX
+XXX*X
+XXXXX
+-->
+   X 
+  *X 
+  X**
+XXX*X
+XXXXX
+-->
+   X 
+  XX 
+  ***
+XX**X
+XXXXX
+-->
+   X 
+  XX 
+  ***
+**X*X
+XXXXX
+-->
+   X 
+  XX 
+  X**
+****X
+XX*XX
+-->
+   X 
+  *X 
+  ***
+**X*X
+XX*XX
+-->
+   X 
+  *X 
+  ***
+**X*X
+**XXX
+-->
+   X 
+  *X 
+  ***
+**X*X
+*X**X
+-->
+   * 
+  ** 
+  *X*
+**X*X
+*X**X
+-->
+   * 
+  ** 
+  *XX
+**X**
+*X***
+-->
+   * 
+  ** 
+  X**
+**X**
+*X***
+-->
+   * 
+  ** 
+  ***
+*****
+*XX**
+-->
+   * 
+  ** 
+  ***
+*****
+X****
+solved
+
+found solution:
+     
+X    
+*XXXX
+XXXXX
+XXXXX
+-->
+     
+X    
+XXXXX
+*XXXX
+*XXXX
+-->
+     
+*    
+*XXXX
+XXXXX
+*XXXX
+-->
+     
+*    
+X**XX
+XXXXX
+*XXXX
+-->
+     
+X    
+***XX
+*XXXX
+*XXXX
+-->
+     
+X    
+*X*XX
+**XXX
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+**XXX
+-->
+     
+X    
+*X*XX
+*X**X
+*X**X
+-->
+     
+X    
+*XX**
+*X**X
+*X**X
+-->
+     
+X    
+***X*
+*X**X
+*X**X
+-->
+     
+X    
+*X*X*
+****X
+****X
+-->
+     
+X    
+*X*XX
+*****
+*****
+-->
+     
+X    
+*XX**
+*****
+*****
+-->
+     
+X    
+X****
+*****
+*****
+-->
+     
+*    
+*****
+X****
+*****
+solved
+
+found solution:
+XX   
+XXX  
+X*X  
+XXX  
+XXXXX
+-->
+XX   
+XXX  
+XXX  
+X*X  
+X*XXX
+-->
+XX   
+XXX  
+XXX  
+X*X  
+XX**X
+-->
+XX   
+XXX  
+XX*  
+X**  
+XXX*X
+-->
+XX   
+XXX  
+**X  
+X**  
+XXX*X
+-->
+XX   
+XXX  
+X*X  
+***  
+*XX*X
+-->
+XX   
+*XX  
+**X  
+X**  
+*XX*X
+-->
+X*   
+**X  
+*XX  
+X**  
+*XX*X
+-->
+X*   
+***  
+*X*  
+X*X  
+*XX*X
+-->
+X*   
+***  
+*X*  
+X*X  
+***XX
+-->
+X*   
+***  
+*X*  
+X*X  
+**X**
+-->
+X*   
+***  
+*XX  
+X**  
+*****
+-->
+X*   
+***  
+X**  
+X**  
+*****
+-->
+X*   
+X**  
+***  
+***  
+*****
+-->
+**   
+***  
+X**  
+***  
+*****
+solved
+
+found solution:
+XXXXX
+XXXXX
+X X  
+XXX  
+*    
+-->
+XXXXX
+XXXXX
+* X  
+*XX  
+X    
+-->
+*XXXX
+*XXXX
+X X  
+*XX  
+X    
+-->
+X**XX
+*XXXX
+X X  
+*XX  
+X    
+-->
+X**XX
+X**XX
+X X  
+*XX  
+X    
+-->
+X**XX
+***XX
+* X  
+XXX  
+X    
+-->
+X**XX
+***XX
+X X  
+*XX  
+*    
+-->
+X*X**
+***XX
+X X  
+*XX  
+*    
+-->
+X*X**
+**XXX
+X *  
+*X*  
+*    
+-->
+X****
+***XX
+X X  
+*X*  
+*    
+-->
+X****
+**X**
+X X  
+*X*  
+*    
+-->
+X****
+*****
+X *  
+*XX  
+*    
+-->
+X****
+*****
+X *  
+X**  
+*    
+-->
+X****
+X****
+* *  
+***  
+*    
+-->
+*****
+*****
+X *  
+***  
+*    
+solved
+
+found solution:
+ *XX 
+ XXXX
+  XXX
+  XXX
+  XXX
+-->
+ X** 
+ XXXX
+  XXX
+  XXX
+  XXX
+-->
+ XX* 
+ X*XX
+  *XX
+  XXX
+  XXX
+-->
+ XX* 
+ XX**
+  *XX
+  XXX
+  XXX
+-->
+ XX* 
+ XX**
+  X**
+  XXX
+  XXX
+-->
+ **X 
+ XX**
+  X**
+  XXX
+  XXX
+-->
+ **X 
+ **X*
+  X**
+  XXX
+  XXX
+-->
+ **X 
+ *XX*
+  ***
+  *XX
+  XXX
+-->
+ **X 
+ *XX*
+  ***
+  X**
+  XXX
+-->
+ **X 
+ *XX*
+  X**
+  ***
+  *XX
+-->
+ **X 
+ **X*
+  ***
+  X**
+  *XX
+-->
+ **X 
+ **X*
+  ***
+  X**
+  X**
+-->
+ **X 
+ **X*
+  X**
+  ***
+  ***
+-->
+ *** 
+ ****
+  XX*
+  ***
+  ***
+-->
+ *** 
+ ****
+  **X
+  ***
+  ***
+solved
+
+found solution:
+  X  
+XXX  
+XXX  
+*XXXX
+XXXX 
+-->
+  X  
+XXX  
+XXX  
+X**XX
+XXXX 
+-->
+  X  
+X*X  
+X*X  
+XX*XX
+XXXX 
+-->
+  X  
+X*X  
+XXX  
+X**XX
+X*XX 
+-->
+  X  
+X*X  
+XXX  
+X**XX
+XX** 
+-->
+  X  
+X**  
+XX*  
+X*XXX
+XX** 
+-->
+  X  
+X**  
+**X  
+X*XXX
+XX** 
+-->
+  X  
+X**  
+X*X  
+**XXX
+*X** 
+-->
+  X  
+***  
+**X  
+X*XXX
+*X** 
+-->
+  X  
+**X  
+***  
+X**XX
+*X** 
+-->
+  *  
+***  
+**X  
+X**XX
+*X** 
+-->
+  *  
+***  
+**X  
+X*X**
+*X** 
+-->
+  *  
+***  
+***  
+X****
+*XX* 
+-->
+  *  
+***  
+***  
+X****
+X*** 
+-->
+  *  
+***  
+X**  
+*****
+**** 
+solved
+
+found solution:
+X    
+*XXX 
+XXX  
+XXXX 
+XXXX 
+-->
+X    
+X**X 
+XXX  
+XXXX 
+XXXX 
+-->
+X    
+X*XX 
+XX*  
+XX*X 
+XXXX 
+-->
+X    
+XX** 
+XX*  
+XX*X 
+XXXX 
+-->
+X    
+**X* 
+XX*  
+XX*X 
+XXXX 
+-->
+X    
+X*X* 
+*X*  
+*X*X 
+XXXX 
+-->
+*    
+**X* 
+XX*  
+*X*X 
+XXXX 
+-->
+*    
+**X* 
+**X  
+*X*X 
+XXXX 
+-->
+*    
+**X* 
+*XX  
+***X 
+X*XX 
+-->
+*    
+**X* 
+*XX  
+***X 
+XX** 
+-->
+*    
+**** 
+*X*  
+**XX 
+XX** 
+-->
+*    
+**** 
+*X*  
+*X** 
+XX** 
+-->
+*    
+**** 
+*X*  
+*X** 
+**X* 
+-->
+*    
+**** 
+***  
+**** 
+*XX* 
+-->
+*    
+**** 
+***  
+**** 
+X*** 
+solved
+
+found solution:
+     
+  XXX
+  XXX
+XX*XX
+XXXXX
+-->
+     
+  XXX
+  XXX
+XXX**
+XXXXX
+-->
+     
+  XXX
+  XXX
+X**X*
+XXXXX
+-->
+     
+  *XX
+  *XX
+X*XX*
+XXXXX
+-->
+     
+  *XX
+  *XX
+XX***
+XXXXX
+-->
+     
+  X**
+  *XX
+XX***
+XXXXX
+-->
+     
+  X**
+  X**
+XX***
+XXXXX
+-->
+     
+  ***
+  ***
+XXX**
+XXXXX
+-->
+     
+  ***
+  X**
+XX***
+XX*XX
+-->
+     
+  ***
+  X**
+**X**
+XX*XX
+-->
+     
+  ***
+  X**
+**X**
+XXX**
+-->
+     
+  ***
+  X**
+**X**
+X**X*
+-->
+     
+  ***
+  ***
+*****
+X*XX*
+-->
+     
+  ***
+  ***
+*****
+XX***
+-->
+     
+  ***
+  ***
+*****
+**X**
+solved
+
+found solution:
+ XX  
+XXXX 
+XXXX 
+XXX* 
+XX   
+-->
+ XX  
+XXX* 
+XXX* 
+XXXX 
+XX   
+-->
+ XX  
+XXX* 
+X**X 
+XXXX 
+XX   
+-->
+ XX  
+XXX* 
+XX*X 
+X*XX 
+X*   
+-->
+ XX  
+XXX* 
+XX*X 
+XX** 
+X*   
+-->
+ XX  
+XXX* 
+**XX 
+XX** 
+X*   
+-->
+ XX  
+XXX* 
+X*XX 
+*X** 
+**   
+-->
+ XX  
+*XX* 
+**XX 
+XX** 
+**   
+-->
+ XX  
+*XX* 
+*X** 
+XX** 
+**   
+-->
+ X*  
+*X** 
+*XX* 
+XX** 
+**   
+-->
+ X*  
+*X** 
+X*** 
+XX** 
+**   
+-->
+ X*  
+XX** 
+**** 
+*X** 
+**   
+-->
+ **  
+X*** 
+*X** 
+*X** 
+**   
+-->
+ **  
+XX** 
+**** 
+**** 
+**   
+-->
+ **  
+**X* 
+**** 
+**** 
+**   
+solved
+
+found solution:
+  X  
+ XXX 
+ *XX 
+XXXXX
+ XXXX
+-->
+  X  
+ XXX 
+ X** 
+XXXXX
+ XXXX
+-->
+  X  
+ XXX 
+ XX* 
+XX*XX
+ X*XX
+-->
+  X  
+ XXX 
+ XX* 
+XXX**
+ X*XX
+-->
+  X  
+ XXX 
+ XX* 
+XXX**
+ XX**
+-->
+  X  
+ XXX 
+ **X 
+XXX**
+ XX**
+-->
+  X  
+ XXX 
+ X*X 
+X*X**
+ *X**
+-->
+  X  
+ *XX 
+ **X 
+XXX**
+ *X**
+-->
+  X  
+ X** 
+ **X 
+XXX**
+ *X**
+-->
+  X  
+ X** 
+ *XX 
+XX***
+ ****
+-->
+  X  
+ X** 
+ *XX 
+**X**
+ ****
+-->
+  X  
+ XX* 
+ **X 
+*****
+ ****
+-->
+  *  
+ X** 
+ *XX 
+*****
+ ****
+-->
+  *  
+ X** 
+ X** 
+*****
+ ****
+-->
+  *  
+ *** 
+ *** 
+*X***
+ ****
+solved
+
+found solution:
+ XX  
+XXX  
+*XX  
+XXXX 
+XXXX 
+-->
+ XX  
+XXX  
+X**  
+XXXX 
+XXXX 
+-->
+ XX  
+XXX  
+XX*  
+X*XX 
+X*XX 
+-->
+ XX  
+XXX  
+XX*  
+XX** 
+X*XX 
+-->
+ XX  
+XXX  
+XX*  
+XX** 
+XX** 
+-->
+ XX  
+XXX  
+**X  
+XX** 
+XX** 
+-->
+ XX  
+XXX  
+X*X  
+*X** 
+*X** 
+-->
+ XX  
+*XX  
+**X  
+XX** 
+*X** 
+-->
+ XX  
+*XX  
+*XX  
+X*** 
+**** 
+-->
+ XX  
+*XX  
+X**  
+X*** 
+**** 
+-->
+ XX  
+XXX  
+***  
+**** 
+**** 
+-->
+ *X  
+X*X  
+*X*  
+**** 
+**** 
+-->
+ **  
+X**  
+*XX  
+**** 
+**** 
+-->
+ **  
+X**  
+X**  
+**** 
+**** 
+-->
+ **  
+***  
+***  
+X*** 
+**** 
+solved
+
+found solution:
+  X  
+ XX  
+XXX  
+XXXXX
+*XXXX
+-->
+  X  
+ XX  
+*XX  
+*XXXX
+XXXXX
+-->
+  X  
+ XX  
+*XX  
+X**XX
+XXXXX
+-->
+  X  
+ XX  
+XXX  
+***XX
+*XXXX
+-->
+  X  
+ *X  
+X*X  
+*X*XX
+*XXXX
+-->
+  X  
+ *X  
+XXX  
+***XX
+**XXX
+-->
+  X  
+ *X  
+XXX  
+***XX
+*X**X
+-->
+  X  
+ **  
+XX*  
+**XXX
+*X**X
+-->
+  X  
+ **  
+**X  
+**XXX
+*X**X
+-->
+  X  
+ *X  
+***  
+***XX
+*X**X
+-->
+  *  
+ **  
+**X  
+***XX
+*X**X
+-->
+  *  
+ **  
+**X  
+**X**
+*X**X
+-->
+  *  
+ **  
+***  
+*****
+*XX*X
+-->
+  *  
+ **  
+***  
+*****
+***XX
+-->
+  *  
+ **  
+***  
+*****
+**X**
+solved
+
+found solution:
+     
+    X
+XXXX*
+XXXXX
+XXXXX
+-->
+     
+    X
+XXXXX
+XXXX*
+XXXX*
+-->
+     
+    *
+XXXX*
+XXXXX
+XXXX*
+-->
+     
+    *
+XX**X
+XXXXX
+XXXX*
+-->
+     
+    *
+**X*X
+XXXXX
+XXXX*
+-->
+     
+    *
+X*X*X
+*XXXX
+*XXX*
+-->
+     
+    *
+XXX*X
+**XXX
+**XX*
+-->
+     
+    *
+XXX*X
+*X**X
+**XX*
+-->
+     
+    *
+XXX*X
+*X**X
+*X***
+-->
+     
+    *
+X**XX
+*X**X
+*X***
+-->
+     
+    *
+XX*XX
+****X
+*****
+-->
+     
+    *
+**XXX
+****X
+*****
+-->
+     
+    X
+**XX*
+*****
+*****
+-->
+     
+    X
+****X
+*****
+*****
+-->
+     
+    *
+*****
+****X
+*****
+solved
+
+found solution:
+   *X
+  XXX
+ XXXX
+ XXXX
+  XXX
+-->
+   XX
+  X*X
+ XX*X
+ XXXX
+  XXX
+-->
+   XX
+  X*X
+ **XX
+ XXXX
+  XXX
+-->
+   XX
+  X*X
+ *X**
+ XXXX
+  XXX
+-->
+   XX
+  X*X
+ *XX*
+ XX*X
+  X*X
+-->
+   XX
+  X*X
+ *XX*
+ **XX
+  X*X
+-->
+   XX
+  **X
+ **X*
+ *XXX
+  X*X
+-->
+   XX
+  **X
+ *XX*
+ **XX
+  **X
+-->
+   XX
+  *XX
+ *X**
+ ***X
+  **X
+-->
+   *X
+  **X
+ *XX*
+ ***X
+  **X
+-->
+   *X
+  **X
+ *XXX
+ ****
+  ***
+-->
+   *X
+  ***
+ *XX*
+ ***X
+  ***
+-->
+   *X
+  ***
+ ***X
+ ***X
+  ***
+-->
+   *X
+  **X
+ ****
+ ****
+  ***
+-->
+   **
+  ***
+ ***X
+ ****
+  ***
+solved
+
+found solution:
+XXXX 
+XXX  
+XXXX 
+XXXX 
+   * 
+-->
+XXXX 
+XXX  
+XXX* 
+XXX* 
+   X 
+-->
+XXXX 
+XXX  
+X**X 
+XXX* 
+   X 
+-->
+XX*X 
+XX*  
+X*XX 
+XXX* 
+   X 
+-->
+**XX 
+XX*  
+X*XX 
+XXX* 
+   X 
+-->
+X*XX 
+*X*  
+**XX 
+XXX* 
+   X 
+-->
+XX** 
+*X*  
+**XX 
+XXX* 
+   X 
+-->
+**X* 
+*X*  
+**XX 
+XXX* 
+   X 
+-->
+**X* 
+*XX  
+***X 
+XX** 
+   X 
+-->
+**** 
+*X*  
+**XX 
+XX** 
+   X 
+-->
+**** 
+*X*  
+*X** 
+XX** 
+   X 
+-->
+**** 
+*X*  
+*X** 
+**X* 
+   X 
+-->
+**** 
+***  
+**** 
+*XX* 
+   X 
+-->
+**** 
+***  
+**** 
+***X 
+   X 
+-->
+**** 
+***  
+***X 
+**** 
+   * 
+solved
+
+found solution:
+ XXXX
+  XXX
+*XXXX
+  XX 
+  XX 
+-->
+ XXXX
+  XXX
+X**XX
+  XX 
+  XX 
+-->
+ XXXX
+  XXX
+X*X**
+  XX 
+  XX 
+-->
+ XXXX
+  XXX
+X*XX*
+  X* 
+  X* 
+-->
+ XXXX
+  XXX
+XX***
+  X* 
+  X* 
+-->
+ XXXX
+  XXX
+**X**
+  X* 
+  X* 
+-->
+ XX*X
+  X*X
+**XX*
+  X* 
+  X* 
+-->
+ XX*X
+  X*X
+*X***
+  X* 
+  X* 
+-->
+ XX*X
+  X*X
+*XX**
+  ** 
+  ** 
+-->
+ **XX
+  X*X
+*XX**
+  ** 
+  ** 
+-->
+ *X**
+  X*X
+*XX**
+  ** 
+  ** 
+-->
+ *X**
+  X*X
+***X*
+  ** 
+  ** 
+-->
+ ****
+  **X
+**XX*
+  ** 
+  ** 
+-->
+ ****
+  **X
+****X
+  ** 
+  ** 
+-->
+ ***X
+  ***
+*****
+  ** 
+  ** 
+solved
+
+found solution:
+     
+X   X
+XXXX*
+X XXX
+XXXXX
+-->
+     
+X   X
+XXXXX
+X XX*
+XXXX*
+-->
+     
+X   *
+XXXX*
+X XXX
+XXXX*
+-->
+     
+X   *
+XX**X
+X XXX
+XXXX*
+-->
+     
+X   *
+**X*X
+X XXX
+XXXX*
+-->
+     
+X   *
+X*X*X
+* XXX
+*XXX*
+-->
+     
+*   *
+**X*X
+X XXX
+*XXX*
+-->
+     
+*   *
+**XXX
+X X*X
+*XX**
+-->
+     
+*   *
+*X**X
+X X*X
+*XX**
+-->
+     
+*   *
+*X**X
+X X*X
+***X*
+-->
+     
+*   *
+*X***
+X X**
+***XX
+-->
+     
+*   *
+*X***
+X X**
+**X**
+-->
+     
+*   *
+*XX**
+X ***
+*****
+-->
+     
+*   *
+X****
+X ***
+*****
+-->
+     
+X   *
+*****
+* ***
+*****
+solved
+
+found solution:
+XX   
+XXX  
+XX*X 
+XX X 
+XXXX 
+-->
+XX   
+XXX  
+**XX 
+XX X 
+XXXX 
+-->
+XX   
+XXX  
+X*XX 
+*X X 
+*XXX 
+-->
+XX   
+*XX  
+**XX 
+XX X 
+*XXX 
+-->
+XX   
+X**  
+**XX 
+XX X 
+*XXX 
+-->
+*X   
+***  
+X*XX 
+XX X 
+*XXX 
+-->
+*X   
+***  
+X*XX 
+XX X 
+X**X 
+-->
+*X   
+***  
+XX** 
+XX X 
+X**X 
+-->
+*X   
+*X*  
+X*** 
+X* X 
+X**X 
+-->
+**   
+***  
+XX** 
+X* X 
+X**X 
+-->
+**   
+***  
+**X* 
+X* X 
+X**X 
+-->
+**   
+***  
+X*X* 
+** X 
+***X 
+-->
+**   
+***  
+X*XX 
+** * 
+**** 
+-->
+**   
+***  
+XX** 
+** * 
+**** 
+-->
+**   
+***  
+**X* 
+** * 
+**** 
+solved
+
+found solution:
+X X  
+XXX  
+XXX  
+XXXX 
+XXX* 
+-->
+X X  
+XXX  
+XXX  
+XXXX 
+X**X 
+-->
+X X  
+XXX  
+X*X  
+X*XX 
+XX*X 
+-->
+X X  
+XXX  
+X*X  
+XX** 
+XX*X 
+-->
+X X  
+XX*  
+X**  
+XXX* 
+XX*X 
+-->
+X X  
+**X  
+X**  
+XXX* 
+XX*X 
+-->
+X X  
+X*X  
+***  
+*XX* 
+XX*X 
+-->
+* X  
+**X  
+X**  
+*XX* 
+XX*X 
+-->
+* *  
+***  
+X*X  
+*XX* 
+XX*X 
+-->
+* *  
+**X  
+X**  
+*X** 
+XX*X 
+-->
+* *  
+**X  
+X**  
+*X** 
+**XX 
+-->
+* *  
+**X  
+X**  
+*X** 
+*X** 
+-->
+* *  
+**X  
+XX*  
+**** 
+**** 
+-->
+* *  
+**X  
+**X  
+**** 
+**** 
+-->
+* X  
+***  
+***  
+**** 
+**** 
+solved
+
+found solution:
+  X  
+XXXX 
+XXXX 
+  XXX
+ *XXX
+-->
+  X  
+XXXX 
+XXXX 
+  XXX
+ X**X
+-->
+  X  
+XXXX 
+XX*X 
+  *XX
+ XX*X
+-->
+  X  
+XXXX 
+**XX 
+  *XX
+ XX*X
+-->
+  X  
+XXXX 
+*X** 
+  *XX
+ XX*X
+-->
+  *  
+XX*X 
+*XX* 
+  *XX
+ XX*X
+-->
+  *  
+**XX 
+*XX* 
+  *XX
+ XX*X
+-->
+  *  
+**XX 
+*XX* 
+  X**
+ XX*X
+-->
+  *  
+**XX 
+***X 
+  X**
+ XX*X
+-->
+  *  
+**X* 
+**** 
+  XX*
+ XX*X
+-->
+  *  
+**X* 
+**** 
+  XX*
+ **XX
+-->
+  *  
+**X* 
+**** 
+  XX*
+ *X**
+-->
+  *  
+**X* 
+**X* 
+  *X*
+ ****
+-->
+  *  
+**** 
+**** 
+  XX*
+ ****
+-->
+  *  
+**** 
+**** 
+  **X
+ ****
+solved
+
+found solution:
+     
+    X
+XXXX*
+XXXXX
+XXXXX
+-->
+     
+    X
+XXXXX
+XXXX*
+XXXX*
+-->
+     
+    *
+XXXX*
+XXXXX
+XXXX*
+-->
+     
+    *
+XX**X
+XXXXX
+XXXX*
+-->
+     
+    *
+**X*X
+XXXXX
+XXXX*
+-->
+     
+    *
+X*X*X
+*XXXX
+*XXX*
+-->
+     
+    *
+XXX*X
+**XXX
+**XX*
+-->
+     
+    *
+XXX*X
+*X**X
+**XX*
+-->
+     
+    *
+XXX*X
+*X**X
+*X***
+-->
+     
+    *
+X**XX
+*X**X
+*X***
+-->
+     
+    *
+XX*XX
+****X
+*****
+-->
+     
+    *
+**XXX
+****X
+*****
+-->
+     
+    X
+**XX*
+*****
+*****
+-->
+     
+    X
+****X
+*****
+*****
+-->
+     
+    *
+*****
+****X
+*****
+solved
+
+found solution:
+  XX*
+ XXXX
+  XXX
+  XXX
+  XXX
+-->
+  **X
+ XXXX
+  XXX
+  XXX
+  XXX
+-->
+  *XX
+ XX*X
+  X*X
+  XXX
+  XXX
+-->
+  X**
+ XX*X
+  X*X
+  XXX
+  XXX
+-->
+  X**
+ **XX
+  X*X
+  XXX
+  XXX
+-->
+  X**
+ *XXX
+  **X
+  *XX
+  XXX
+-->
+  ***
+ **XX
+  X*X
+  *XX
+  XXX
+-->
+  ***
+ *X**
+  X*X
+  *XX
+  XXX
+-->
+  ***
+ ****
+  **X
+  XXX
+  XXX
+-->
+  ***
+ ****
+  X*X
+  *XX
+  *XX
+-->
+  ***
+ ****
+  XXX
+  **X
+  **X
+-->
+  ***
+ ***X
+  XX*
+  ***
+  **X
+-->
+  ***
+ ***X
+  **X
+  ***
+  **X
+-->
+  ***
+ ****
+  ***
+  **X
+  **X
+-->
+  ***
+ ****
+  **X
+  ***
+  ***
+solved
+
+found solution:
+    X
+ X XX
+ XXXX
+ XXXX
+XX* X
+-->
+    X
+ X XX
+ XXXX
+ XXXX
+**X X
+-->
+    X
+ X XX
+ *XXX
+ *XXX
+*XX X
+-->
+    X
+ X XX
+ X**X
+ *XXX
+*XX X
+-->
+    X
+ * XX
+ ***X
+ XXXX
+*XX X
+-->
+    X
+ * XX
+ X**X
+ *XXX
+**X X
+-->
+    X
+ * XX
+ XX*X
+ **XX
+*** X
+-->
+    X
+ * XX
+ XX*X
+ *X**
+*** X
+-->
+    X
+ * XX
+ **XX
+ *X**
+*** X
+-->
+    X
+ * *X
+ ***X
+ *XX*
+*** X
+-->
+    X
+ * **
+ ****
+ *XXX
+*** X
+-->
+    X
+ * **
+ ***X
+ *XX*
+*** *
+-->
+    X
+ * **
+ ***X
+ ***X
+*** *
+-->
+    X
+ * *X
+ ****
+ ****
+*** *
+-->
+    *
+ * **
+ ***X
+ ****
+*** *
+solved
+
+found solution:
+     
+   XX
+ XXXX
+XXXXX
+XXXX*
+-->
+     
+   XX
+ XXXX
+XXXXX
+XX**X
+-->
+     
+   XX
+ X*XX
+XX*XX
+XXX*X
+-->
+     
+   XX
+ XX**
+XX*XX
+XXX*X
+-->
+     
+   XX
+ XX**
+**XXX
+XXX*X
+-->
+     
+   XX
+ **X*
+**XXX
+XXX*X
+-->
+     
+   XX
+ *XX*
+***XX
+XX**X
+-->
+     
+   XX
+ X***
+***XX
+XX**X
+-->
+     
+   XX
+ X***
+***XX
+**X*X
+-->
+     
+   XX
+ X**X
+***X*
+**X**
+-->
+     
+   X*
+ X***
+***XX
+**X**
+-->
+     
+   X*
+ X***
+**X**
+**X**
+-->
+     
+   X*
+ XX**
+*****
+*****
+-->
+     
+   X*
+ **X*
+*****
+*****
+-->
+     
+   **
+ ****
+***X*
+*****
+solved
+
+found solution:
+ X   
+XX X 
+XXXX 
+X XX 
+XXX*X
+-->
+ X   
+XX X 
+XXXX 
+X XX 
+X**XX
+-->
+ X   
+XX X 
+XXXX 
+X XX 
+X*X**
+-->
+ X   
+XX X 
+XXX* 
+X X* 
+X*XX*
+-->
+ X   
+XX X 
+X**X 
+X X* 
+X*XX*
+-->
+ *   
+X* X 
+XX*X 
+X X* 
+X*XX*
+-->
+ *   
+X* X 
+**XX 
+X X* 
+X*XX*
+-->
+ *   
+X* X 
+X*XX 
+* X* 
+**XX*
+-->
+ *   
+** X 
+**XX 
+X X* 
+**XX*
+-->
+ *   
+** * 
+**X* 
+X XX 
+**XX*
+-->
+ *   
+** * 
+**XX 
+X X* 
+**X**
+-->
+ *   
+** * 
+*X** 
+X X* 
+**X**
+-->
+ *   
+** * 
+*XX* 
+X ** 
+*****
+-->
+ *   
+** * 
+X*** 
+X ** 
+*****
+-->
+ *   
+X* * 
+**** 
+* ** 
+*****
+solved
+
+found solution:
+     
+   XX
+ XX*X
+XXXXX
+XXXXX
+-->
+     
+   XX
+ **XX
+XXXXX
+XXXXX
+-->
+     
+   XX
+ X*XX
+X*XXX
+X*XXX
+-->
+     
+   XX
+ X*XX
+XX**X
+X*XXX
+-->
+     
+   XX
+ X*XX
+XX**X
+XX**X
+-->
+     
+   XX
+ XX**
+XX**X
+XX**X
+-->
+     
+   XX
+ XX**
+**X*X
+XX**X
+-->
+     
+   XX
+ XX**
+**X*X
+**X*X
+-->
+     
+   XX
+ **X*
+**X*X
+**X*X
+-->
+     
+   XX
+ *XX*
+****X
+****X
+-->
+     
+   *X
+ *X**
+***XX
+****X
+-->
+     
+   *X
+ *X*X
+***X*
+*****
+-->
+     
+   **
+ *X**
+***XX
+*****
+-->
+     
+   **
+ *X**
+**X**
+*****
+-->
+     
+   **
+ ****
+*****
+**X**
+solved
+
+found solution:
+   XX
+  XXX
+  XX*
+  XXX
+XXXXX
+-->
+   XX
+  XXX
+  XXX
+  XX*
+XXXX*
+-->
+   XX
+  XX*
+  XX*
+  XXX
+XXXX*
+-->
+   XX
+  XX*
+  **X
+  XXX
+XXXX*
+-->
+   XX
+  XX*
+  X*X
+  *XX
+XX*X*
+-->
+   XX
+  *X*
+  **X
+  XXX
+XX*X*
+-->
+   XX
+  *X*
+  **X
+  XXX
+**XX*
+-->
+   XX
+  *X*
+  **X
+  XXX
+*X***
+-->
+   *X
+  ***
+  *XX
+  XXX
+*X***
+-->
+   *X
+  **X
+  *X*
+  XX*
+*X***
+-->
+   **
+  ***
+  *XX
+  XX*
+*X***
+-->
+   **
+  ***
+  X**
+  XX*
+*X***
+-->
+   **
+  ***
+  ***
+  *X*
+*XX**
+-->
+   **
+  ***
+  ***
+  *X*
+***X*
+-->
+   **
+  ***
+  *X*
+  ***
+*****
+solved
+
+found solution:
+     
+ X  X
+ *XXX
+XXXXX
+XXXXX
+-->
+     
+ X  X
+ X**X
+XXXXX
+XXXXX
+-->
+     
+ X  X
+ XX*X
+XX*XX
+XX*XX
+-->
+     
+ X  X
+ XX*X
+XXX**
+XX*XX
+-->
+     
+ X  X
+ XX*X
+XXX**
+XXX**
+-->
+     
+ X  X
+ **XX
+XXX**
+XXX**
+-->
+     
+ X  X
+ *XXX
+XX***
+XX***
+-->
+     
+ X  X
+ X**X
+XX***
+XX***
+-->
+     
+ X  X
+ X**X
+**X**
+XX***
+-->
+     
+ *  X
+ ***X
+*XX**
+XX***
+-->
+     
+ *  X
+ ***X
+*XX**
+**X**
+-->
+     
+ *  X
+ ***X
+***X*
+**X**
+-->
+     
+ *  *
+ ****
+***XX
+**X**
+-->
+     
+ *  *
+ ****
+**X**
+**X**
+-->
+     
+ *  *
+ *X**
+*****
+*****
+solved
+
+found solution:
+     
+   XX
+ XXX*
+XXXXX
+XXXXX
+-->
+     
+   XX
+ X**X
+XXXXX
+XXXXX
+-->
+     
+   XX
+ XX*X
+XX*XX
+XX*XX
+-->
+     
+   XX
+ XX*X
+XXX**
+XX*XX
+-->
+     
+   XX
+ XX*X
+XXX**
+XXX**
+-->
+     
+   XX
+ **XX
+XXX**
+XXX**
+-->
+     
+   XX
+ *XXX
+XX***
+XX***
+-->
+     
+   XX
+ X**X
+XX***
+XX***
+-->
+     
+   XX
+ X**X
+**X**
+XX***
+-->
+     
+   XX
+ X**X
+**X**
+**X**
+-->
+     
+   XX
+ XX*X
+*****
+*****
+-->
+     
+   XX
+ **XX
+*****
+*****
+-->
+     
+   *X
+ ***X
+***X*
+*****
+-->
+     
+   **
+ ****
+***XX
+*****
+-->
+     
+   **
+ ****
+**X**
+*****
+solved
+
+found solution:
+     
+XXXX 
+*XX  
+XXXX 
+XXXXX
+-->
+     
+XXXX 
+X**  
+XXXX 
+XXXXX
+-->
+     
+XXXX 
+XX*  
+X*XX 
+X*XXX
+-->
+     
+XXXX 
+XXX  
+X**X 
+X**XX
+-->
+     
+XX*X 
+XX*  
+X*XX 
+X**XX
+-->
+     
+**XX 
+XX*  
+X*XX 
+X**XX
+-->
+     
+X*XX 
+*X*  
+**XX 
+X**XX
+-->
+     
+XX** 
+*X*  
+**XX 
+X**XX
+-->
+     
+**X* 
+*X*  
+**XX 
+X**XX
+-->
+     
+**X* 
+*X*  
+**XX 
+X*X**
+-->
+     
+**X* 
+*XX  
+***X 
+X****
+-->
+     
+**** 
+*X*  
+**XX 
+X****
+-->
+     
+**** 
+*X*  
+*X** 
+X****
+-->
+     
+**** 
+***  
+**** 
+XX***
+-->
+     
+**** 
+***  
+**** 
+**X**
+solved
+
+found solution:
+    X
+  XX*
+XXXXX
+XXXXX
+ XX  
+-->
+    X
+  **X
+XXXXX
+XXXXX
+ XX  
+-->
+    X
+  X*X
+XX*XX
+XX*XX
+ XX  
+-->
+    X
+  X*X
+XXX**
+XX*XX
+ XX  
+-->
+    X
+  X*X
+XXX**
+**XXX
+ XX  
+-->
+    X
+  X*X
+XXX**
+*X**X
+ XX  
+-->
+    X
+  **X
+XX***
+*XX*X
+ XX  
+-->
+    X
+  **X
+**X**
+*XX*X
+ XX  
+-->
+    X
+  **X
+*XX**
+**X*X
+ *X  
+-->
+    X
+  **X
+***X*
+**X*X
+ *X  
+-->
+    X
+  **X
+**XX*
+****X
+ **  
+-->
+    *
+  ***
+**XXX
+****X
+ **  
+-->
+    *
+  **X
+**XX*
+*****
+ **  
+-->
+    *
+  **X
+****X
+*****
+ **  
+-->
+    X
+  ***
+*****
+*****
+ **  
+solved
+
+found solution:
+     
+   XX
+ XXXX
+XXX*X
+XXXXX
+-->
+     
+   *X
+ XX*X
+XXXXX
+XXXXX
+-->
+     
+   *X
+ **XX
+XXXXX
+XXXXX
+-->
+     
+   *X
+ X*XX
+X*XXX
+X*XXX
+-->
+     
+   *X
+ X*XX
+XX**X
+X*XXX
+-->
+     
+   *X
+ X*XX
+XX**X
+XX**X
+-->
+     
+   *X
+ XX**
+XX**X
+XX**X
+-->
+     
+   *X
+ XX**
+**X*X
+XX**X
+-->
+     
+   *X
+ XX**
+**X*X
+**X*X
+-->
+     
+   *X
+ **X*
+**X*X
+**X*X
+-->
+     
+   *X
+ *XX*
+****X
+****X
+-->
+     
+   *X
+ *XXX
+*****
+*****
+-->
+     
+   **
+ *XX*
+****X
+*****
+-->
+     
+   **
+ ***X
+****X
+*****
+-->
+     
+   *X
+ ****
+*****
+*****
+solved
+
+found solution:
+ X   
+XXXX 
+XXXX*
+XXX  
+XXX  
+-->
+ X   
+XXXX 
+XX**X
+XXX  
+XXX  
+-->
+ X   
+XXXX 
+**X*X
+XXX  
+XXX  
+-->
+ X   
+XXXX 
+X*X*X
+*XX  
+*XX  
+-->
+ X   
+*XXX 
+**X*X
+XXX  
+*XX  
+-->
+ X   
+*XXX 
+**X*X
+XXX  
+X**  
+-->
+ X   
+*XXX 
+X*X*X
+*XX  
+***  
+-->
+ X   
+*XXX 
+X*X*X
+X**  
+***  
+-->
+ X   
+XXXX 
+**X*X
+***  
+***  
+-->
+ *   
+X*XX 
+*XX*X
+***  
+***  
+-->
+ *   
+XX** 
+*XX*X
+***  
+***  
+-->
+ *   
+**X* 
+*XX*X
+***  
+***  
+-->
+ *   
+**X* 
+***XX
+***  
+***  
+-->
+ *   
+**X* 
+**X**
+***  
+***  
+-->
+ *   
+**** 
+*****
+**X  
+***  
+solved
+
+found solution:
+ XXX 
+ XXXX
+  XXX
+  XXX
+  *XX
+-->
+ XXX 
+ XXXX
+  XXX
+  XXX
+  X**
+-->
+ XXX 
+ XXXX
+  XX*
+  XX*
+  X*X
+-->
+ XXX 
+ XXXX
+  **X
+  XX*
+  X*X
+-->
+ XXX 
+ XXXX
+  X*X
+  *X*
+  **X
+-->
+ XXX 
+ X*XX
+  **X
+  XX*
+  **X
+-->
+ XX* 
+ X**X
+  *XX
+  XX*
+  **X
+-->
+ **X 
+ X**X
+  *XX
+  XX*
+  **X
+-->
+ **X 
+ X*XX
+  **X
+  X**
+  **X
+-->
+ *** 
+ X**X
+  *XX
+  X**
+  **X
+-->
+ *** 
+ X***
+  *X*
+  X*X
+  **X
+-->
+ *** 
+ X***
+  *XX
+  X**
+  ***
+-->
+ *** 
+ X***
+  X**
+  X**
+  ***
+-->
+ *** 
+ XX**
+  ***
+  ***
+  ***
+-->
+ *** 
+ **X*
+  ***
+  ***
+  ***
+solved
+
+found solution:
+ XXX 
+XXXXX
+XXXXX
+ XX *
+     
+-->
+ XXX 
+XXXX*
+XXXX*
+ XX X
+     
+-->
+ XXX 
+XXXX*
+XX**X
+ XX X
+     
+-->
+ XXX 
+XXXX*
+**X*X
+ XX X
+     
+-->
+ *XX 
+X*XX*
+*XX*X
+ XX X
+     
+-->
+ *XX 
+XX***
+*XX*X
+ XX X
+     
+-->
+ *XX 
+**X**
+*XX*X
+ XX X
+     
+-->
+ *XX 
+*XX**
+**X*X
+ *X X
+     
+-->
+ *XX 
+***X*
+**X*X
+ *X X
+     
+-->
+ *XX 
+**XX*
+****X
+ ** X
+     
+-->
+ **X 
+***X*
+**X*X
+ ** X
+     
+-->
+ *** 
+*****
+**XXX
+ ** X
+     
+-->
+ *** 
+****X
+**XX*
+ ** *
+     
+-->
+ *** 
+****X
+****X
+ ** *
+     
+-->
+ *** 
+*****
+*****
+ ** X
+     
+solved
+
+found solution:
+XXXX*
+XXXX 
+XXX  
+XXXX 
+     
+-->
+XX**X
+XXXX 
+XXX  
+XXXX 
+     
+-->
+**X*X
+XXXX 
+XXX  
+XXXX 
+     
+-->
+*XX*X
+X*XX 
+X*X  
+XXXX 
+     
+-->
+*XX*X
+XX** 
+X*X  
+XXXX 
+     
+-->
+*XX*X
+XXX* 
+X**  
+XX*X 
+     
+-->
+*XX*X
+XXX* 
+X**  
+**XX 
+     
+-->
+*XX*X
+*XX* 
+***  
+X*XX 
+     
+-->
+*XX*X
+*XX* 
+***  
+XX** 
+     
+-->
+*XX*X
+*XX* 
+***  
+**X* 
+     
+-->
+***XX
+*XX* 
+***  
+**X* 
+     
+-->
+**X**
+*XX* 
+***  
+**X* 
+     
+-->
+*****
+*X** 
+**X  
+**X* 
+     
+-->
+*****
+*XX* 
+***  
+**** 
+     
+-->
+*****
+X*** 
+***  
+**** 
+     
+solved
+
+found solution:
+   X 
+  X* 
+XXXX 
+XXXXX
+XXXX 
+-->
+   X 
+  XX 
+XXX* 
+XXX*X
+XXXX 
+-->
+   * 
+  X* 
+XXXX 
+XXX*X
+XXXX 
+-->
+   * 
+  X* 
+XXXX 
+X**XX
+XXXX 
+-->
+   * 
+  ** 
+XX*X 
+X*XXX
+XXXX 
+-->
+   * 
+  ** 
+**XX 
+X*XXX
+XXXX 
+-->
+   * 
+  ** 
+X*XX 
+**XXX
+*XXX 
+-->
+   * 
+  ** 
+X*XX 
+**XXX
+X**X 
+-->
+   * 
+  ** 
+XX** 
+**XXX
+X**X 
+-->
+   * 
+  ** 
+**X* 
+**XXX
+X**X 
+-->
+   * 
+  ** 
+**** 
+***XX
+X*XX 
+-->
+   * 
+  ** 
+**** 
+***XX
+XX** 
+-->
+   * 
+  ** 
+**** 
+**X**
+XX** 
+-->
+   * 
+  ** 
+**** 
+**X**
+**X* 
+-->
+   * 
+  ** 
+**X* 
+*****
+**** 
+solved
+
+found solution:
+     
+X   X
+XXXX*
+XX XX
+XXXXX
+-->
+     
+X   X
+XXXXX
+XX X*
+XXXX*
+-->
+     
+X   *
+XXXX*
+XX XX
+XXXX*
+-->
+     
+X   *
+XX**X
+XX XX
+XXXX*
+-->
+     
+X   *
+**X*X
+XX XX
+XXXX*
+-->
+     
+X   *
+X*X*X
+*X XX
+*XXX*
+-->
+     
+*   *
+**X*X
+XX XX
+*XXX*
+-->
+     
+*   *
+*XX*X
+X* XX
+**XX*
+-->
+     
+*   *
+*XX*X
+X* XX
+*X***
+-->
+     
+*   *
+***XX
+X* XX
+*X***
+-->
+     
+*   *
+****X
+X* *X
+*X*X*
+-->
+     
+*   *
+*****
+X* **
+*X*XX
+-->
+     
+*   *
+*****
+X* **
+*XX**
+-->
+     
+*   *
+*****
+X* **
+X****
+-->
+     
+*   *
+X****
+** **
+*****
+solved
+
+found solution:
+     
+  X X
+X *XX
+XXXXX
+XXXXX
+-->
+     
+  X X
+X XXX
+XX*XX
+XX*XX
+-->
+     
+  * X
+X *XX
+XXXXX
+XX*XX
+-->
+     
+  * X
+X X**
+XXXXX
+XX*XX
+-->
+     
+  X X
+X ***
+XX*XX
+XX*XX
+-->
+     
+  X X
+X ***
+XX*XX
+**XXX
+-->
+     
+  X X
+* ***
+*X*XX
+X*XXX
+-->
+     
+  X X
+* ***
+*X*XX
+XX**X
+-->
+     
+  X X
+* ***
+*X*XX
+**X*X
+-->
+     
+  X X
+* **X
+*X*X*
+**X**
+-->
+     
+  X *
+* ***
+*X*XX
+**X**
+-->
+     
+  X *
+* ***
+*XX**
+**X**
+-->
+     
+  X *
+* X**
+*X***
+*****
+-->
+     
+  * *
+* ***
+*XX**
+*****
+-->
+     
+  * *
+* ***
+X****
+*****
+solved
+
+found solution:
+     
+X   X
+X XX*
+XXXXX
+XXXXX
+-->
+     
+X   X
+X XXX
+XXXX*
+XXXX*
+-->
+     
+X   *
+X XX*
+XXXXX
+XXXX*
+-->
+     
+X   *
+X **X
+XXXXX
+XXXX*
+-->
+     
+X   *
+X X*X
+XX*XX
+XX*X*
+-->
+     
+X   *
+X X*X
+**XXX
+XX*X*
+-->
+     
+*   *
+* X*X
+X*XXX
+XX*X*
+-->
+     
+*   *
+* X*X
+XX**X
+XX*X*
+-->
+     
+*   *
+* X*X
+**X*X
+XX*X*
+-->
+     
+*   *
+* X*X
+**X*X
+**XX*
+-->
+     
+*   *
+* X*X
+**X*X
+*X***
+-->
+     
+*   *
+* **X
+****X
+*XX**
+-->
+     
+*   *
+* **X
+****X
+***X*
+-->
+     
+*   *
+* ***
+*****
+***XX
+-->
+     
+*   *
+* ***
+*****
+**X**
+solved
+
+found solution:
+  X  
+ XX  
+ XXX 
+XXXXX
+*XXXX
+-->
+  X  
+ XX  
+ XXX 
+XXXXX
+X**XX
+-->
+  X  
+ XX  
+ *XX 
+X*XXX
+XX*XX
+-->
+  X  
+ XX  
+ X** 
+X*XXX
+XX*XX
+-->
+  X  
+ XX  
+ X** 
+XX**X
+XX*XX
+-->
+  *  
+ X*  
+ XX* 
+XX**X
+XX*XX
+-->
+  *  
+ X*  
+ XX* 
+**X*X
+XX*XX
+-->
+  *  
+ **  
+ *X* 
+*XX*X
+XX*XX
+-->
+  *  
+ **  
+ *X* 
+*XX*X
+XXX**
+-->
+  *  
+ **  
+ *X* 
+***XX
+XXX**
+-->
+  *  
+ **  
+ *X* 
+**X**
+XXX**
+-->
+  *  
+ **  
+ *X* 
+**X**
+X**X*
+-->
+  *  
+ **  
+ *** 
+*****
+X*XX*
+-->
+  *  
+ **  
+ *** 
+*****
+XX***
+-->
+  *  
+ **  
+ *** 
+*****
+**X**
+solved
+
+found solution:
+    X
+ XXX*
+  XXX
+ XXXX
+ XXXX
+-->
+    X
+ X**X
+  XXX
+ XXXX
+ XXXX
+-->
+    X
+ XX*X
+  *XX
+ X*XX
+ XXXX
+-->
+    X
+ XX*X
+  X**
+ X*XX
+ XXXX
+-->
+    X
+ **XX
+  X**
+ X*XX
+ XXXX
+-->
+    X
+ **XX
+  XX*
+ X**X
+ XX*X
+-->
+    X
+ **XX
+  XX*
+ X**X
+ **XX
+-->
+    X
+ **XX
+  XX*
+ X**X
+ *X**
+-->
+    *
+ **X*
+  XXX
+ X**X
+ *X**
+-->
+    *
+ **XX
+  XX*
+ X***
+ *X**
+-->
+    *
+ *X**
+  XX*
+ X***
+ *X**
+-->
+    *
+ ****
+  *X*
+ XX**
+ *X**
+-->
+    *
+ ****
+  *X*
+ **X*
+ *X**
+-->
+    *
+ ****
+  ***
+ ****
+ *XX*
+-->
+    *
+ ****
+  ***
+ ****
+ X***
+solved
+

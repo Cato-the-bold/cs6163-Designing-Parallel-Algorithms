@@ -1,0 +1,36 @@
+Found 115 solutions.
+execution time = 93.4664 seconds.
+Found 115 solutions.
+execution time = 93.16 seconds.
+Found 115 solutions.
+execution time = 93.133 seconds.
+Found 115 solutions.
+execution time = 93.0704 seconds.
+Found 115 solutions.
+execution time = 93.1455 seconds.
+Found 115 solutions.
+execution time = 93.233 seconds.
+Found 115 solutions.
+execution time = 93.0654 seconds.
+mpirun: killing job...
+
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 20926 on node Raptor-08-02 exited on signal 0 (Unknown signal 0).
+--------------------------------------------------------------------------
+mpirun: clean termination accomplished
+
+2 total processes killed (some possibly by mpirun during cleanup)
+Found 115 solutions.
+execution time = 93.1011 seconds.
+Found 115 solutions.
+execution time = 93.1172 seconds.
+Found 115 solutions.
+execution time = 93.2718 seconds.
+Found 115 solutions.
+execution time = 93.1575 seconds.
+Found 115 solutions.
+execution time = 93.1633 seconds.
+Found 115 solutions.
+execution time = 93.2438 seconds.
+Found 115 solutions.
+execution time = 93.0951 seconds.
