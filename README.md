@@ -10,7 +10,7 @@ Replace these MPI collective operations with an algorithm that uses point-to-poi
 2) AllToAllPersonalized() that performs the all-to-all-personalized
 communication primitive using integers.
 
-I wrote an in-place alogrithm that only process the orginal chunks, but it is still 45% lower than the standard APIs.
+I wrote an in-place alogrithm that only rearrange the orginal chunks, but it is still 45% lower than the standard APIs.
 
 ##Project3:
 cancelled by Dr. Luke.
