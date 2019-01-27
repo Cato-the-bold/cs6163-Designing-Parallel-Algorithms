@@ -1,10 +1,10 @@
 # cs6163-Designing-Parallel-Algorithms
 
-##Project 1:
+## Project 1:
 **** Search for Intelligent Puzzles ****
 This project is designed to explore the bag-of-tasks model of parallel programming. 
 
-##Project2:
+## Project2:
 Replace these MPI collective operations with an algorithm that uses point-to-point MPI calls
 1) AllToAll() that performs an all-to-all communication primitives using integers, and 
 2) AllToAllPersonalized() that performs the all-to-all-personalized
@@ -26,5 +26,5 @@ for these algorithms.
 
 I wrote an in-place alogrithm that only rearrange the orginal chunks, but it is still 45% lower than the standard APIs.
 
-##Project3:
+## Project3:
 cancelled by Dr. Luke.
